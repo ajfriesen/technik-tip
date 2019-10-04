@@ -1,8 +1,8 @@
 # Hugo variables
 #
-baseurl = "https://example.org/"
-languageCode = "en-us"
-title = "Hugo Bootstrap v4 Blog"
+baseurl = "https://www.technik-tip.de/"
+languageCode = "de"
+title = "Technik-Tip"
 theme = "hugo-theme-bootstrap4-blog"
 # number of posts to show on home/category/tag pages (Default: 10)
 paginate = 5
@@ -32,7 +32,7 @@ paginate = 5
 #
 [params]
   # Site author
-  author = "Your Name"
+  author = "Andrej Friesen"
 
   # Description/subtitle for homepage (can be Markdown)
   description = "A simple Hugo theme based on the Bootstrap v4 blog example."
