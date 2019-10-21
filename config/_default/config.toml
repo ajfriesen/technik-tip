@@ -3,6 +3,9 @@ languageCode = "de-de"
 title = "Technik-Tip"
 paginate = 1
 
+googleAnalytics = "UA-140381777-1"
+
+
 [module]
   [[module.imports]]
     path = "github.com/ajfriesen/hugo-theme-ajfriesen"
