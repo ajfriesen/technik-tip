@@ -1,7 +1,7 @@
 baseURL = "https://www.technik-tip.de/"
 languageCode = "de-de"
 title = "Technik-Tip"
-paginate = 1
+paginate = 3
 
 [module]
   [[module.imports]]
