@@ -20,4 +20,4 @@ paginate = 3
   googleAnalyticsTrackingCode = "UA-140381777-1"
 
 [permalinks]
-    page = "/:slug/"
+    page = "/:title/"
