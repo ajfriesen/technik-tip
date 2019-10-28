@@ -1,9 +1,12 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 categories: ["Category"]
-image: 
+image: "featured.jpg"
 date: {{ .Date }}
 draft: true
-author: Who am I
-weight: 
+author: "Who am I"
+weight: ""
 ---
+
+Photo by Aaron Burden on Unsplash
+
