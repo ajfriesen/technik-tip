@@ -2,6 +2,7 @@ baseURL = "https://www.technik-tip.de/"
 languageCode = "de-de"
 title = "Technik-Tip"
 paginate = 1
+enableEmoji=true
 
 googleAnalytics = "UA-140381777-1"
 
