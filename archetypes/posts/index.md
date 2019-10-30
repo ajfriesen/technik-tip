@@ -8,5 +8,17 @@ author: "Who am I"
 weight: ""
 ---
 
-Photo by Aaron Burden on Unsplash
+Einleitung
 
+<!--more-->
+
+{{< figure src="./featured.jpg"
+width="100%"
+caption="Photo by AAAAAA on Unsplash"
+link=https://unsplash.com/photos/
+target="_blank"
+ >}}
+
+---
+
+Text
