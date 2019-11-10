@@ -38,8 +38,34 @@ Das sollten Sie auf jeden Fall lassen:
 
 # So gehen Sie vor
 
-1. Passwortmanager nutzen
-2. Passphrasen anstatt Passwörter merken und nutzen
+1. Passwortmanager nutzen (Artikel folgt)
+
+## Passphrase erstellen
+
+5 bis 6 Wörter ohne Sinn aneinander reihen und eventuell mit Sonderzeichen verknüpfen bzw. noch ein oder zwei Buchstaben durch Ziffern austauschen, da dies von einigen Diensten gefordert wird.
+Die Wörter können auch aus verschiedenen Sprachen kommen.
+Seien Sie Kreativ.
+
+Keine bekannten Sätze oder Zitate nutzen!
+
+Eine Passphrase mit einer Passwortlänge von 36 Zeichen
+: Haus-Apfel-Auto-Gorilla-Adventskranz-Walnuss
+
+Schon haben Sie ein sehr lange Passwort welches schwer zu knacken ist und dazu noch einfach zu merken.
+
+## Komplexes Passwort merken
+
+Passphrasen sind definitiv zu bevorzugen, da diese meist länger sind als Passwörter, aber auch Passwörter kann man sich mit einer Methode merken.
+
+Erstellen Sie einen Satz wie:
+
+***M**eine **H**eizung **f**unktioniert **i**m **W**inter **n**icht **u**nd **d**as **f**ind **i**ch **t**otal **d**oof **v**on **m**einem **V**ermieter*
+
+Jetzt kann mein zum Beispiel die Regel nehmen, dass man jeden ersten Buchstaben nimmt:
+
+*MHfiWnudfitdvmV*
+
+Jetzt könnten noch einige Buchstaben durch Zahlen oder Sonderzeichen ersetzt werden und man hat ein solides Passwort.
 
 ---
 
