@@ -1,6 +1,6 @@
 ---
 title: 'Sichere Passwörter'
-date: 2019-08-01
+date: 2019-11-11
 categories: ["Passwörter"]
 tags: [ "" ]
 draft: false
