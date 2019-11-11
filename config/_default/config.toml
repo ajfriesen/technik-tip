@@ -1,10 +1,11 @@
 baseURL = "https://www.technik-tip.de/"
 languageCode = "de-de"
 title = "Technik-Tip"
-paginate = 1
+paginate = 3
 
 googleAnalytics = "UA-140381777-1"
 
+enableEmoji=true
 
 [module]
   [[module.imports]]
@@ -24,3 +25,4 @@ googleAnalytics = "UA-140381777-1"
 
 [permalinks]
     page = "/:slug/"
+    articles = "/:slug/"
