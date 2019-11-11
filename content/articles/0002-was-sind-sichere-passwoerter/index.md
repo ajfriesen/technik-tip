@@ -11,7 +11,7 @@ slug: sichere-passwoerter
 ---
 
 Passwörter sind nervig, aber notwendig.
-Hier erfahren Sie was sichere Passwörter sind.
+Hier erfahren Sie was sichere Passwörter sind und worauf Sie bei der Erstellung von Passwörtern lieber verzichten sollten.
 
 <!---more-->
 ---
@@ -23,49 +23,53 @@ Das sollten Sie tun:
 * :white_check_mark: Passwortmanager nutzen
 * :white_check_mark: Lange Passwörter sind sicherer als komplexe Passwörter
 * :white_check_mark: Passphrasen anstatt Passwörter
-* :white_check_mark: Mindestens 12 Zeichen
+* :white_check_mark: Eine Passwortlänge von mindestens 12 Zeichen
 
-Das sollten Sie auf jeden Fall lassen:
+Das sollten Sie auf keinen Fall tun:
 
 * :x: Das selbe Passwort auf mehreren Seiten verwenden
-* :x: Persönliche Daten nutzen,wie:
+* :x: Persönliche Daten nutzen:
   * :x: Namen (Kinder, Haustiere, Eltern, etc.)
   * :x: Wohnorte
   * :x: Geburtsdaten
-  * :x: Sonstige perönlich öffenltich auffindbare Informationen (Fußballverein, etc.)
+  * :x: Sonstige perönliche und öffentlich auffindbare Informationen über Sie (Fußballverein, etc.)
 * :x: Tastaturmuster wie ASDF, 1234, jklö nutzen
 
 
 # So gehen Sie vor
 
-1. Passwortmanager nutzen (Artikel folgt)
+Passwortmanager nutzen (Artikel folgt)
 
 ## Passphrase erstellen
 
-5 bis 6 Wörter ohne Sinn aneinander reihen und eventuell mit Sonderzeichen verknüpfen bzw. noch ein oder zwei Buchstaben durch Ziffern austauschen, da dies von einigen Diensten gefordert wird.
-Die Wörter können auch aus verschiedenen Sprachen kommen.
-Seien Sie Kreativ.
+Passphrasen stellen aneinandergereihte Worte dar.
+Sinnvoll ist es, 5 bis 6 Wörter ohne semantischen Zusammenhang aneinander zu reihen und eventuell mit Sonderzeichen zu verknüpfen.
+Je sinnloser, desto besser.
+Dabei können und sollten ein bis zwei Buchstaben durch Ziffern austauausgetauscht werden, da dies von zahlreichen Diensten zur Erfassung des Passwortes ohnehin gefordert wird.
+Die Wörter aus der Passphrase können auch aus verschiedenen Sprachen kommen.
+Seien Sie kreativ.
 
+Wichtig:
 Keine bekannten Sätze oder Zitate nutzen!
 
-Eine Passphrase mit einer Passwortlänge von 36 Zeichen
-: Haus-Apfel-Auto-Gorilla-Adventskranz-Walnuss
+Eine Passphrase mit einer Passwortlänge von 36 Zeichen wäre:
+Haus-Apfel-Auto-Gorilla-Adventskranz-Walnuss
 
-Schon haben Sie ein sehr lange Passwort welches schwer zu knacken ist und dazu noch einfach zu merken.
+Schon haben Sie ein sehr langes Passwort welches schwer zu knacken und dazu noch einfacher zu merken ist als eine bloße Aneinanderreihung von Buchstaben, Zahlen und Sonderzeichen.
 
 ## Komplexes Passwort merken
 
-Passphrasen sind definitiv zu bevorzugen, da diese meist länger sind als Passwörter, aber auch Passwörter kann man sich mit einer Methode merken.
+Passphrasen sind definitiv zu bevorzugen, da diese meist länger sind als Passwörter, aber auch Passwörter kann man sich mit einer einfachen Methode merken.
 
 Erstellen Sie einen Satz wie:
 
 ***M**eine **H**eizung **f**unktioniert **i**m **W**inter **n**icht **u**nd **d**as **f**ind **i**ch **t**otal **d**oof **v**on **m**einem **V**ermieter*
 
-Jetzt kann mein zum Beispiel die Regel nehmen, dass man jeden ersten Buchstaben nimmt:
+Nimmt man jeden ersten Buchstaben eines Wortes, bekommt man folgendes Passwort:
 
 *MHfiWnudfitdvmV*
 
-Jetzt könnten noch einige Buchstaben durch Zahlen oder Sonderzeichen ersetzt werden und man hat ein solides Passwort.
+Nun könnten noch einige Buchstaben durch Zahlen oder Sonderzeichen ersetzt werden und man hat ein solides Passwort generiert, welches man sich darüber hinaus noch gut merken kann.
 
 ---
 
@@ -80,25 +84,28 @@ link=https://xkcd.com/936
 target="_blank"
 >}}
 
-Über die Jahre wurde uns gesagt, dass ein Passwort sicher sein soll.
-Mindestens eine Zahl, auf jeden Fall 2 Sonderzeichen, Groß- und Kleinbuchstaben. Dann hat man meist einen Begriff (häufig den Namen) genommen, ein paar Buchstaben durch Sonderzeichen und Zahlen ausgetauscht und schon war das Passwort fertig.
+Immer wieder wird uns gesagt, dass ein Passwort sicher sein soll.
+Mindestens eine Zahl, auf jeden Fall 2 Sonderzeichen, Groß- und Kleinbuchstaben.
+Was passiert?
+Man nimmt einen Begriff (häufig den eigenen Namen oder den des Partners, der Kinder etc.), tauscht ein paar Buchstaben durch Sonderzeichen und Zahlen aus oder hängt sie lediglich vorne und hinten an den Begriff und schon ist das Passwort fertig.
 
-Dann wird aus **Andrej** schnell **AnDr3|!** und schnell tritt der Glaube auf, dass sei ein sicheres Passwort.
+Dann wird aus **Andrej** schnell **AnDr3|!** oder **!Andrej456** und schnell tritt der Glaube auf, dass sei ein sicheres Passwort.
 
-Leider ist dies meist auch ein kurzes Passwort, da Namen meist kurz sind und schwer zu merken.
-Schade, denn das Passwort ist alles andere als gut.
+Leider ist dies meist begriffsbedingt (Namen sind selten länger als 8 Zeichen) auch ein ziemlich kurzes Passwort und somit auch dementsprechend unsicher.
+Ganz so einfach sollte man es sich also aus diesen obigen Sicherheitsgründen nicht machen.
 
-## Warum sind denn jetzt lange Passwörter besser als komplexe Passwörter?
+## Warum sind denn jetzt lange Passwörter besser als komplexe aber kurze Passwörter?
 
 Eine sehr gute Erklärung gibt es von Heiko Schröder [^1].
+Bei Interesse kann hier der ganze Artikel direkt gelesen werden: [Zusammenhang von Brute-Force-Attacken und Passwortlängen](https://www.1pw.de/brute-force.php)[^1]
 
-Da das wirklich schon gut aufbereitet worden ist gibt es hier nur eine kurze Zusammenfassung:
+Zusammengefasst und veranschaulicht gibt er folgendes Beispiel:
 
 Die Formel um alle Kombinationsmöglichkeiten zu bekommen ist wie folgt:
 
 **Kombinationsmöglichkeiten = Zeichenanzahl<sup>Passwortlänge</sup>**
 
-Bei einem Passwort von 7 Zeichen und 26 verschiedenen Kleinbuchstaben (ä,ö,ü,ß ausgeschlossen) gibt es folgende Anzahl Kombinationsmöglichkeiten:
+Bei einem Passwort von 7 Zeichen und 26 verschiedenen Kleinbuchstaben (ä,ö,ü,ß ausgeschlossen) gibt es folgende Anzahl an Kombinationsmöglichkeiten:
 
 Kombinationen = 26 <sup>7</sup> <br>
               = 26 * 26 * 26 * 26 * 26 * 26 * 26 <br>
@@ -110,56 +117,53 @@ Kombinationen = 26 <sup>8</sup><br>
               = 26 * 26 * 26 * 26 * 26 * 26 * 26 * 26<br>
               = 208.827.064.576 (Mehr als 208 Milliarden) <br>
 
-Es ist klar zu sehen, dass die Passwortlänge einen unfassbar großen Einfluss auf die Kombinationsmöglichkeiten hat.
-Der Einfluss ist weit aus größer als der der Zeichenanzahl.
-Die Zeichenanzahl ist auch nur begrenzt erweiterbar.
-Schließlich sind irgenwann alle Zeichen auf der Tastatur wie Großbuchstaben, Sonderzeichen und Ziffern in der Zeichenanzahl enthalten.
-Die Passwortlänge hingegen ist unendlich erweiterbar und bringt viel mehr im Bezug auf die Anzahl der Kombinationsmöglichkeiten.
+Es ist also klar: die Passwortlänge hat einen unfassbar großen Einfluss auf die Kombinationsmöglichkeiten.
+Je länger das Passwort desto großer die Kombinationsmöglichkeiten und desto sicherer ist das Passowort.
+Die Zeichen sind nur begrenzt erweiterbar, schließlich sind irgenwann alle Zeichen auf der Tastatur enthalten ( Großbuchstaben, Sonderzeichen und Ziffern).
+Die Passwortlänge hingegen ist unendlich erweiterbar und lässt die Kombinationsmöglichkeiten in die Höhe schnellen.
 
 Warum ist das wichtig?
-Computer sind in den letzten Jahren immer Leistungsstärker geworden und können unfassbar viele Rechenoperationen pro Sekunde durchführen.
-Wir rechnen mit 2.147.483.600  Passwörter pro Sekunden, die der Computer ausprobiert kann. (Stand 2016) [^1].
+Computer sind in den letzten Jahren immer Leistungsstärker geworden und können unvorstellbar viele Rechenoperationen pro Sekunde durchführen.
+Wir rechnen mit 2.147.483.600 Passwörtern pro Sekunden, die ein Computer ausprobiert kann. (Stand 2016) [^1].
 
 Damit braucht ein Rechner für ein Passwort mit der Passwortlänge von 7 Zeichen nur <br>**8.031.810.176 Kombinationen / 2.147.483.600 Passwörter/sec <br>= 3,74 Sekunden**.
 
-Für ein Passwort mit einer Passwortlänge von 8 Zeichen  sind es <br>**208.827.064.576 Kombinationen / 2.147.483.600 Passwörter/sec <br>= 97 Sekunden <br>= mehr als 1,5 Minuten**.
+Für ein Passwort mit einer Passwortlänge von 8 Zeichen sind es <br>**208.827.064.576 Kombinationen / 2.147.483.600 Passwörter/sec <br>= 97 Sekunden <br>= mehr als 1,5 Minuten**.
 
 Für längere Passwörter brauchen Computer einfach länger, um diese zu knacken.
 
 ### Wie lang sollen Passwörter denn sein?
 
-Das ist nicht ganz eindeutig, da dabei noch mehr Fakrotren eine Rolle spielen.
-Das BSI für Bürger emphielt mindestens 8 Zeichen [^2].
-Das finde ich persönlich etwas wenig, da man solch ein Passwort in 1,18 Tagen durch stupides ausprobieren errarten kann.
-Also mit einer Passwortlänge von 8 und Zeichenzahl von 62 (Groß- Kleinbuchstaben & Ziffern).
+Das ist also nun die Gretchenfrage: Eindeutig und pauschal ist sie nicht zu beantworten, da dabei noch weitere Fakrotren eine Rolle spielen.
+Das BSI für Bürger empfielt mindestens 8 Zeichen [^2].
+Das finde ich persönlich etwas wenig, da man solch ein Passwort mit bspw. einer Zeichenanzahl von 62 (Groß- und Kleinbuchstaben sowie Ziffern) und einer Passwortlänge von 8 Zeichen in 1,18 Tagen durch stupides "ausprobieren" herausbekommen kann.
 
-Das ist in meinen Augen schon vertretbarer Aufwand. 
-Daher würde ich eher in die Richtung von mindestens 12 Zeichen tendieren.
-Mit Groß- und Kleinbuchstaben und Ziffern bräuchte ein Computer **47639,13 Jahre**.
+Und je nach Benutzer und Relevanz des Erfolges ein solches Passwort zu knacken ist das ein vertretbarer Auswand.
+Daher würde ich eine Passwortlänge von mindestens 12 Zeichen empfehlen, die mit der obigen Methode schnell zusammenkommen können.
+Mit Groß- und Kleinbuchstaben sowie Ziffern bräuchte ein Computer dafür **47639,13 Jahre**.
 
-Das ist alles andere als vertretbarer Aufwand.
-Zudem gibt es Methoden, wie man sich solche Passwörter sehr einfach erstellen und merken kann.
+Das aus rein wirtschaftlicher Sicht bereits alles andere als ein vertretbarer Aufwand für denjenigen, der es knacken möchte.
+Für Sie also ein Grund mehr sich für ein längeres anstatt kurzes und komplexes Passwort zu entscheiden.
 
 # Warum persönliche Daten in Passwörtern nichts verlorgen haben
 
-Generell beim Thema Sicherheit geht es immer um Risko.
+Beim Thema Sicherheit geht es generell immer um das Risko.
 100%ige Sicherheit gibt es nicht, wer das verspricht lügt schlicht und ergreifend.
-Das Risiko für eine Person ist dabei immer unterschiedlich.
+Das Risiko für die jeweilige Person ist dabei immer unterschiedlich.
 
-Personen, die sowieso in der öffentlichkeit stehen und dadruch viele Daten für andere einsehbar haben, teilweise sogar auf Wikipedia, haben ein Potentiell größeres Risiko.
-Einfach schon dadurch, dass eventuell mehr Leute diesen Schaden wollen.
-Eventuell auch, dass es sich mehr lohnt, als beim Nachbarn.
+Personen, die sowieso in der öffentlichkeit stehen und dadruch viele Informationen über sie für Dritte einsehbar sind, sind potenziell gefährdeter als der Normalo.
+Das Risiko, dass Dritte auf sensible Daten Zugriff haben wollen steigt (Attraktivität der Daten) und durch die vielen frei auffindbaren Informationen auch das Risiko, dass (schlechte) Passwörter schneller geknackt werden können.
 
-Durch soziale Netzwerke, Hobbyseiten und so weiter lässt sich allerdings sehr viel über fast jeden herausfinden.
-Facebook Likes auf eine Band, Fotos von Konzerten, ein Foto vom Haustier mit Namen, Geburtstagsgrüße auf der Pinnwand.
-Schon kann die Passwortliste erweitert werden mit der der Copmuter versucht Kombinationen zu finden.
+Durch soziale Netzwerke, Hobbyseiten und co lässt sich allerdings über fast jeden sehr viel herausfinden.
+Facebook Likes auf einer Bandseite, Fotos von Konzerten, ein Foto vom Haustier mit Namen, Geburtstagsgrüße auf der Pinnwand, Lieblingsurlaubsziele und und und.
+Schon kann die Passwortliste Dritter erweitert werden, mit der der Copmuter dann versucht mögliche Kombinationen zu finden.
 
-Das Interessa an Personen und dadruch das Risiko sind natürlich sehr verschieden.
+Das Interesse an Personen und dadruch das Risiko sind natürlich sehr verschieden.
 
 Wird das Facebook Passwort einer Schülerin herausgefunden, können sich Mitschüler einen Scherz in ihrem Namen erlauben.
-Bei einem CEO eines großen Unternehmens kommt man eventuell an seinen E-Mail Account und kann Geschäftsprozesse einsehen oder Überweisung anordern.
+Bei einem CEO eines großen Unternehmens hingegen kommt man eventuell sogar an seinen E-Mail Account und kann Geschäftsprozesse und sensible Daten einsehen oder Überweisung anfordern.
 
-Egal wie hoch das Riskoprofil ist und welche Auswirkungen das haben könnte, niemand will seine Daten außer Hand lassen.
+Egal wie hoch das Riskoprofil ist und welche Auswirkungen das haben könnte: Niemand möchte seine Daten gerne aus der Hand geben oder die Kontrolle über ihre Verbreitung verlieren.
 
 Daher gilt:
 
@@ -168,13 +172,13 @@ Daher gilt:
 # Warum Passwörter nicht wiederverwendet werden dürfen
 
 Heutzutage ist man bei unzähligen Diensten angemeldet.
-Sei es soziale Netzwerke (Facebook, Twitter, Instagram), Foren,Onlineshops (Amazon, eBay, etc.) Onlinebanking und vieles mehr.
+Seien es soziale Netzwerke (Facebook, Twitter, Instagram), Foren, Onlineshops (Amazon, eBay, etc.), Onlinebanking und viele mehr.
 
-Das selbe Passwort bei allen Diensten zu haben ist das größte Problem für den Privatnutzer.
+Das selbe Passwort bei allen Diensten zu verwenden ist grob fahrlässig und das größte Problem für den Privatnutzer.
 Denn auch wenn das Passwort sicher ist, muss es nur einmal geknackt oder geleakt werden und schon sind alle Dienste derjenigen Person in Gefahr.
 
 Dann ist der Aufwand enorm groß *alle* Passwörter zu ändern.
-Daher immer ein anderes Passwort pro Dienst nutzen.
+Daher ist es so wichtig, immer ein anderes Passwort für unterschiedliche Seiten und Dienste zu verwenden.
 
 # Quellen
 
