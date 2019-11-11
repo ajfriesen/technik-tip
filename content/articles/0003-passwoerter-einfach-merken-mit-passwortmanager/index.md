@@ -3,7 +3,7 @@ title: 'Passwörter einfach merken mit Passwortmanager'
 date: 2019-08-10
 categories: ["Passwörter"]
 tags: [ "" ]
-draft: false
+draft: true
 weight: 1
 image: "how-to-choose-best-password-manager.jpg"
 author: "Andrej Friesen"
