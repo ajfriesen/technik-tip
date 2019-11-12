@@ -4,16 +4,17 @@ date: 2019-11-11
 categories: ["Passwörter"]
 tags: [ "" ]
 draft: false
-weight:
+weight: 2
 image:
 author: "Andrej Friesen"
 slug: sichere-passwoerter
 ---
 
 Passwörter sind nervig, aber notwendig.
-Hier erfahren Sie was sichere Passwörter sind und worauf Sie bei der Erstellung von Passwörtern lieber verzichten sollten.
+Hier erfahren Sie was sichere Passwörter sind und worauf Sie bei der Erstellung von Passwörtern achten sollten.
+Vor allem auch was Sie nicht machen sollten und auch warum.
 
-<!---more-->
+<!--more-->
 ---
 
 # Das wichtigste in Kürze
