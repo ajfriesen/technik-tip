@@ -26,3 +26,4 @@ enableEmoji=true
 [permalinks]
     page = "/:slug/"
     articles = "/:slug/"
+    posts = "/:section/:slug/"
