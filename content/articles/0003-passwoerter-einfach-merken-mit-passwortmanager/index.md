@@ -5,15 +5,15 @@ categories: ["Passwörter"]
 tags: [ "" ]
 draft: true
 weight: 1
-image: "how-to-choose-best-password-manager.jpg"
+image: ""
 author: "Andrej Friesen"
 ---
 Was haben der Pin für die Bankkarte, das WLAN Kennwort oder der Login für Facebook, Google Mail, Amazon, eBay und Internetforen gemeinsam?
 
-Die haben alle ein Passwort.
+Diese haben alle ein Passwort und dieses muss man sich merken.
 
 Es ist sehr schwer sich diese Anzahl zu merken, außer es wird immer das gleiche Passwort verwendet und genau das sollten Sie nicht machen.
-Hier erfahren Sie, wie mit einem Passwortmanager das Problem der hunderte komplizierte Passwörter sich einfach in Luft auflöst.
+Hier erfahren Sie, wie Sie mit einem Passwortmanager das Problem der hunderten komplizierten Passwörter in den Griff bekommen.
 <!--more-->
 
 
@@ -34,7 +34,7 @@ https://stadt-bremerhaven.de/google-g-suite-passwoerter-lagen-viele-jahre-im-kla
 * Passwortmanager nutzen und sich so nur ein Passwort (das Masterpasswort) für den Passwortmanager merken
 * Für jedes Konto, Account oder Dienst einen eigenen Eintrag mit eigenem Passwort erstellen
 * Lange Passwörter mit mindestens 12 Zeichen verwenden (der Passwort-Generator im Passwort Manager hilft hier)
-  * Es gibt eigentlich keinen Grund jetzt kurze Passwörter zu nutzen
+  * Es gibt eigentlich keinen Grund jetzt kurze Passwörter zu nutzen, da der Passwortmanager diese jetzt verwaltet
 * Bei Passwortleaks benachrichtigen lassen und das Passwort für das betroffene Konto sofort wechseln
 * 2 Faktor Authentifizierung nutzen
   * vor allem beim E-Mail Konto
@@ -50,22 +50,62 @@ https://stadt-bremerhaven.de/google-g-suite-passwoerter-lagen-viele-jahre-im-kla
 * *(optional) Smartphone App installieren*
 
 
-# Richte den Passwortmanager mit einem langen Masterpasswort ein
+# Masterpasswort einrichten
  
 Dieses Passwort wird von nun an das einzige welches Sie sich merken müssen.
-Wie Sie ein gutes Passwort erstellen können Sie in diesem Artikel nachlesen:([Sichere Passwörter]({{< ref "/articles/0001-was-sind-sichere-passwoerter" >}}))
+Wie Sie ein gutes Passwort erstellen können Sie in diesnm Artikel nachlesen:([Sichere Passwörter]({{< ref "/articles/0001-was-sind-sichere-passwoerter" >}}))
 
 Bitte nutzen Sie auf keinen Fall ein schon bekanntes Passwort!
 Wie Sie das nachprüfen folgt in einem weiteren Artikel.
 
 Es lohnt sich auch dieses Passwort aufzuschreiben und an einem sicherem Ort zu verwahren.
 Ein Safe, eine abschließbare Schublade, Bankschließfach, was auch immer.
-Schließlich kann Gedächtnisverlust Sie auch das Masterpasswort vergessen lassen.
+Ein Gedächtnisverlust nach einem Unfall oder Demenz und schon kommen Sie nicht mehr an alle ihre Daten.
 
 # Sie können mehr als nur Passwörter speichern
 
 Ein Passwortmanager ist eigentlich nur ein verschlüsselter Container, der nur mit ihrem Passwort zu öffnen ist.
-Das heißt Sie können dort auch geheime Notizen oder Sicherheitsfragen, Kundennummern, Sozialversicherungsnummer, Steuernummer, ADAC Mitgliedsnummer und so weiter speichern.
+Das heißt Sie können dort auch geheime Notizen, Sicherheitsfragen, Kundennummern, Sozialversicherungsnummer, Steuernummer, ADAC Mitgliedsnummer und so weiter speichern.
+
+Wenn Sie solche persönlichen Daten speichern sollten Sie vorher überlegen, wie Sie sich schützen.
+
+# So schützen Sie ihren Passwort Manager
+
+Hier gilt es jetzt zu verstehen, dass es keine 100%ige Sicherheit gibt.
+Alles andere ist leider schlicht weg unseriös.
+
+Weiterhin ist es immer wichtig zu definieren wogegen der Schutz sein soll.
+Das hängt unter anderem schon davon ab, was für eine Art Passwort Manager genutzt wird.
+
+Ein Passwort Manager der nur lokal auf den eigenen PC läuft muss anders geschützt werden, als ein Online Passwort Manager bei dem Sie sich mit ihrer E-Mail regestrieren.
+
+*Beispiel Online Passwort Manager*
+
+Sie haben ein super sicheres Passwort für den Online Passwort Manager erstellt und nutzen jetzt ihren Passwort Manager für alles.
+Aber ihr Passwort für das E-Mail Konto wurde in einem Passwort Leak gefunden.
+Jetzt kann ein potentieller Angreifer ihr E-Mail Konto nutzen, um bei allen Diensten, wo Sie angemeldet sind, die Passwörter zurückzusetzen.
+Die Links zum zurücksetzen der Passwörter kommen dann an das E-Mail Konto, über welches Sie keine Kontrolle mehr haben und schon sind Sie nicht mehr Herr der Lage.
+
+Das wäre bei einem Passwort Manager, der nur auf dem lokalen PC läuft nicht passiert.
+Hier müsste ein Keylogger, Trojaner oder andere Schadsoftware auf dem PC eingeschleußt werden, um an die Daten zu kommen.
+
+Heißt das, dass Online Passwort Manager unsicher sind?
+
+Jein.
+
+Bei Online Passwort Managern gewinnen wir immer meist an komfort.
+Wir können in der heutigen Zeit alle Geräte synchronisieren und brauchen uns nicht um Backups kümmern.
+
+Komfort hingegen kostet immer ein wenig Sicherheit.
+Dem kann man allerdings entegegn wirken.
+
+Nutzt man einen Online Passwort manager sind 2 Dinge absoulte Pflicht:
+
+1. Nutzen Sie für das E-Mail Konto mit dem Sie sich beim Online Passwort Manager registrieren definitiv eine 2 Faktor Authentifizierung.
+2. Nutzen Sie ein anders Passwort für E-Mail Konto und Online Passwort Manager
+3. Nutzen Sie 2 Faktor Authentifizierung auch beim Online Passwort Manager
+
+Mehr zum Thema 2 Faktor Authentifizierung gibt es in einem gesondertem Artikel.
 
 # Welche Art von Passwortmanager brauche ich?
 
