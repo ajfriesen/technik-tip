@@ -21,14 +21,6 @@ Hier erfahren Sie, wie Sie mit einem Passwortmanager das Problem der hunderten k
 
 ---
 
-
-
-Browser Plug ins erklären: Vor-und Nachteile
-Backup des Passwortmanagers?
-Checken:
-https://netzpolitik.org/2018/kleines-einmaleins-der-digitalen-selbstverteidigung/#Browser
-https://stadt-bremerhaven.de/google-g-suite-passwoerter-lagen-viele-jahre-im-klartext-vor/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+stadt-bremerhaven%2FdqXM+%28Caschys+Blog%29
-
 # Das Wichtigste in kürze
 
 * Passwortmanager nutzen und sich so nur ein Passwort (das Masterpasswort) für den Passwortmanager merken
@@ -45,10 +37,45 @@ https://stadt-bremerhaven.de/google-g-suite-passwoerter-lagen-viele-jahre-im-kla
 * Entscheiden Sie sich für einen Passwortmanager und installieren Sie diesen
 * Richte den Passwortmanager mit einem langen Masterpasswort ein ([Artikel: Sichere Passwörter]({{< ref "/articles/0001-was-sind-sichere-passwoerter" >}}))
 * Erstelle für jedes Konto (Soziale Netzwerke, Internetforen, Onlineshops, etc.) einen neuen Eintrag mit einem zufälligen langem Passwort
+    * Viele Passwort Manager bieten auch eine praktische Import Funktion an, die die Passwörter aus dem Browser holt
 * Beim nächsten einloggen einfach den Passwortmanager entsperren und das Passwort aus dem passenden Eintrag kopieren und einfügen
 * *(optional) Browser Erweiterungen auf dem PC installieren damit jederzeit und komfortable die Passwörter genutzt werden können*
 * *(optional) Smartphone App installieren*
 
+# Funktionsweise von Passwort Managern
+
+Im endeffekt funktinoieren alle Passwort Manager mehr oder weniger gleich.
+Beim ersten Start fragt das Programm nach einem Masterpasswort.
+Dieses Passwort wird dafür verwendet die Passwortdatenbank zu verschlüsseln.
+Das gleiche passiert auch beim Online Passwort Manager.
+Sie setzten nicht unbedingt explizit ein Masterpasswort sondern nutzten einfach das Passwort, welches ihr für die Regestrierung des Dienstes angebt.
+Klaut jemand eure Passwortdatenbank kann der oder diejenige damit nichts anfangen, da diese nur mit dem Masterpasswort geöffnet und somit gelesen werden kann.
+
+Der große Unterschied zwischen Offline und Online Variante:
+Beim Offline Passwort Manager wie Keepass liegt die Passwortdatenbank als Datei auf ihrem Gerät.
+Bei Online Passwort Managern wie LastPass liegt die Passwortdatenbank auf den Servern oder neudeutsch Cloud des Anbieters.
+
+## Wie prüft der Passwort Manager ob das Passwort richtig ist?
+
+An sich wird nie das Passwort direkt geprüft.
+Beim verschlüsseln der Passwortdatenbank geben Sie ihr Masterpasswort ein.
+Die Verschlüsselung der Passwortdatenbank wird mit Hilfe eines komplexen Algorythmus bewerkstelligt.
+Um die Datenbank wieder öffnen zu können braucht es das Masterpasswort.
+
+Wenn Sie jetzt ihren Passwort Manager entsperren wollen, tippen Sie ihr Passwort ein und das Programm erstellt einen sogenannten Hash.
+Dieser Hash wird genutzt, um zu prüfen ob das Passwort welches Sie eintippen auch das richtige für die Passwortdatenbank ist.
+
+**Das gilt auch für einen Online Passwort Manager.**
+Viele glauben, dass man bei einem Online Passwort Manager wie Lastpass und andere das Passwort mitschickt.
+Das stimmt allerdings nicht ganz.
+Es wird immer nur der Hash mitgeschickt der lokal berechnet wird.
+Die Berechnung des Hashes passiert immer auf Seite des Clients.
+In diesem Fall also vom Lastpass Programm, wenn dieses installiert ist.
+Falls kein Programm/App installiert ist und man im Browser sich anmeldet ist der Browser der Client.
+
+Zusammenfassend: Es wird nie das eigentliche Passwort übertragen.
+Der Online Passwort Manager Anbieter kann somit bei vernünftiger Verschlüsselung auch nicht auf eure Daten zugreifen.
+Das ist auch gut so!
 
 # Masterpasswort einrichten
  
@@ -64,61 +91,101 @@ Ein Gedächtnisverlust nach einem Unfall oder Demenz und schon kommen Sie nicht 
 
 # Sie können mehr als nur Passwörter speichern
 
-Ein Passwortmanager ist eigentlich nur ein verschlüsselter Container, der nur mit ihrem Passwort zu öffnen ist.
+Ein Passwortmanager ist eigentlich nur ein verschlüsselte Datenbank, der nur mit ihrem Passwort zu öffnen ist.
 Das heißt Sie können dort auch geheime Notizen, Sicherheitsfragen, Kundennummern, Sozialversicherungsnummer, Steuernummer, ADAC Mitgliedsnummer und so weiter speichern.
 
-Wenn Sie solche persönlichen Daten speichern sollten Sie vorher überlegen, wie Sie sich schützen.
+Wenn Sie solche persönlichen Daten speichern sollten, Sie vorher überlegen, wie und vor allem wogegen Sie sich schützen sollten/müssen.
 
-# So schützen Sie ihren Passwort Manager
+# Wie entscheide ich mich für welchen Passwort Manager?
 
-Hier gilt es jetzt zu verstehen, dass es keine 100%ige Sicherheit gibt.
-Alles andere ist leider schlicht weg unseriös.
+Wie vorhin schon erwähnt gibt es im Grunde 2 verschiedene Arten von Passwort Managern.
 
-Weiterhin ist es immer wichtig zu definieren wogegen der Schutz sein soll.
-Das hängt unter anderem schon davon ab, was für eine Art Passwort Manager genutzt wird.
+1. Einmal die Online Variante wo Sie ein Konto erstellen und die Passwörter im Rechenzentrum des Anbieters gespeichert werden. Gerne auch Cloud genannt, aber es sind auch nur Server.
+2. Die Offline Variante speichert die Passwörter in einer lokalen Datei auf ihrem Gerät ab.
+3. Die Offline Variante bietet eine dritte Variante an.
+Sie können einen Offline Passwort Manager nutzen, der die Datei lokal auf ihrem PC ablegt.
+Dann können Sie die Datei mit einem Dienst ihrer Wahl (Dropbox, Google Drive, Microsoft OneDrive) in die Cloud synchronisieren.
 
-Ein Passwort Manager der nur lokal auf den eigenen PC läuft muss anders geschützt werden, als ein Online Passwort Manager bei dem Sie sich mit ihrer E-Mail regestrieren.
+## 1. Offline Variante
 
-*Beispiel Online Passwort Manager*
+Angriffsvektor:
 
-Sie haben ein super sicheres Passwort für den Online Passwort Manager erstellt und nutzen jetzt ihren Passwort Manager für alles.
-Aber ihr Passwort für das E-Mail Konto wurde in einem Passwort Leak gefunden.
-Jetzt kann ein potentieller Angreifer ihr E-Mail Konto nutzen, um bei allen Diensten, wo Sie angemeldet sind, die Passwörter zurückzusetzen.
-Die Links zum zurücksetzen der Passwörter kommen dann an das E-Mail Konto, über welches Sie keine Kontrolle mehr haben und schon sind Sie nicht mehr Herr der Lage.
+* Ihr lokales Gerät
 
-Das wäre bei einem Passwort Manager, der nur auf dem lokalen PC läuft nicht passiert.
-Hier müsste ein Keylogger, Trojaner oder andere Schadsoftware auf dem PC eingeschleußt werden, um an die Daten zu kommen.
+Pro:
 
-Heißt das, dass Online Passwort Manager unsicher sind?
+* Die Passwortdatenbank ist nur auf ihrem Gerät vorhanden
+* Angriffsvektor ist nur ihr Gerät
+  * Um an ihre Datenbank zu kommen braucht der Angreifer physischen Zugriff oder muss die Kontrolle über ihren Computer übernehmen
 
-Jein.
+Contra:
 
-Bei Online Passwort Managern gewinnen wir immer meist an komfort.
-Wir können in der heutigen Zeit alle Geräte synchronisieren und brauchen uns nicht um Backups kümmern.
+* Keine Synchronisierung auf andere Geräte möglich
+* Sie müssen sich selbst um die Backups kümmern
 
-Komfort hingegen kostet immer ein wenig Sicherheit.
-Dem kann man allerdings entegegn wirken.
+## 2. Online Variante
 
-Nutzt man einen Online Passwort manager sind 2 Dinge absoulte Pflicht:
+Angriffsvektor:
 
-1. Nutzen Sie für das E-Mail Konto mit dem Sie sich beim Online Passwort Manager registrieren definitiv eine 2 Faktor Authentifizierung.
-2. Nutzen Sie ein anders Passwort für E-Mail Konto und Online Passwort Manager
-3. Nutzen Sie 2 Faktor Authentifizierung auch beim Online Passwort Manager
+* Online Passwort Manager Anbieter
 
-Mehr zum Thema 2 Faktor Authentifizierung gibt es in einem gesondertem Artikel.
+Pro:
 
-# Welche Art von Passwortmanager brauche ich?
+* Synchronisierung ist meisten über merhere Geräte möglich (Windows, Mac, Linux, ChromeOS, Android, iOS,)
+* Der Anbieter kümmert sich eigentlich um Backups
 
-Das kommt drauf an welche persönlichen Anforderungen und Nutzungsgewohnheiten hat.
+Contra:
 
-## Typ 1
+* Die Passwort Datenbank liegt in der Cloud/ fremden Servern (Vertrauensfrage)
+* Der Angrifsvektor ist jetzt größer, da ein potentieller Angreifer ihr Passwort ausprobieren kann
+  * Hier ist es absolute Pflicht neben dem Masterpasswort auch eine 2-Faktor-Authentifizierung einzurichten.
+Nichts ist zu 100% sicher und so auch nicht der Online Passwort Mangager Server.
+Kommen Dritte an ihr Passwort für den Dienst sollte die 2-Faktor-Authentifizierung Sie dafür schützen, dass nicht gleich auch der Zugriff auf alle Account möglich ist.
 
-Nur am PC
+## 3. Offline Variante mit Online Speicher
 
+Angriffsvektor:
 
-# Welche Passwortmanager sind zu empfehlen?
+* Alle Geräte die synchronisiert werden
+* Online Speicher Anbieter
 
-Hier eine Auswahl an Passwortmanagern, die ich selbst im Einsatz hatte und entsprechend der Anforderungen empfehlen kann.
+Pro:
+
+* Synchronisierung über mehrere Geräte hinweg
+* Angriffsvektor sind die Geräte und der Online Speicher Anbieter den Sie nutzen
+  * Ihr Online Speicher Anbieter weiß nicht, 
+  * Kann auch auf eigenen Severn, NAS (Network Attached Storage) zu Hause oder auf gemietet Servern betrieben werden.
+Hier würde ich sagen, dass ist nichts für Leien.
+Man muss sich mit der Technik auskennen und aktuell bleiben.
+Port Forwarding oder VPN dauerhaft sicher zu betreiben ist für den Otto Normalverbraucher einfach nicht praktikabel.
+
+Contra:
+
+* Sie müssen sich selbst um die Backups kümmern
+  * Auch wenn die Passwortdatenbank jetzt über mehrere Geräte synchronisiert
+  * Zum Thema Backup generell kommt noch ein gesonderter Artikel, der dann hier verlinkt wird
+
+# Fazit
+
+Wie man in der obigen Aufführung der drei Unterschiedlichen Varianten sieht geht es bei der Entscheidung des Passwort Managers immer im eine Abwägung von Komfort und Vertrauen.
+Vertraue ich Anbieter X oder lieber Y.
+Dazu kommen noch individuelle Ansprüche, wie:
+* Brauche ich meine Passwortdatenbank auf dem Handy und somit die Synchronisierung?
+* Habe ich Lust mich um die Backups zu kümmern?
+* Möchte ich dafür Geld ausgeben?
+* Dieser Passwort Manager funktinoiert leider nicht auf meinem iPhone
+
+Mit den ganzen Informationen die Sie jetzt bekommen suchen Sie sich den passenden Passwort Manager aus.
+Probieren Sie diese am besten ein paar Tage aus.
+Die Entscheidung kann man ja früher oder später noch ändern und die Passwörter migrieren.
+
+# Auswahl an Passwort Managern
+
+Eins möchte ich Ihnen noch mitgeben:
+Hören Sie nicht auf die Leute, die predigen, dass man auf keinen Fall etwas in der Cloud machen soll.
+Egal für welchen Passwort Manager Sie sich entscheiden.
+
+**Jeder Passwort Manager ist besser, als immer das gleiche unsichere Passwort für alle Dienste zu nutzen!**
 
 ## KeePass2
 
@@ -127,31 +194,36 @@ Hier eine Auswahl an Passwortmanagern, die ich selbst im Einsatz hatte und entsp
 Was Passwortverwaltung betrifft ist Keepass einfach nicht wegzudenken.
 Der Klassiker unter den Passwortmanagern.
 Die Webseite und das Programm mögen etwas altbacken wirken, aber lassen Sie sich nicht täuschen.
-Es ist das Programm mit den meisten Funktionen,
+Der Qellcode ist open source und ist so für jederman einsehbar.
+Keepass wird redelmäßig auditiert und wird sogar von einigen Regierungen, darunter auch Deutschland, empholen (https://keepass.info/ratings.html)
+Dazu ist es das Programm mit den meisten Funktionen und lässt sich durch die Plugins sehr gut erweitern.
 
-Ein wirklich gutes Programm verbirgt sich dahinter.
-Für wen?
-In meinen Augen ist Keepass2 der beste Passwortmanager.
-komplett kostenlos
-Mehrfach ausgezeichnet ist Keepass ein sicherer Passwortmanager, der regelmäßig Upadtes erhält.Keepass und das Dateiformat in welchem der Passwortmanger die Passwörter speichert sind OpenSource.
-Daher gibt es auch viele Client, die das Keepass Dateiformat bearbeiten können.
+Das Keepass Dateiformat kann auch von vielen anderen Programmen gelesen werden und daher gibt es eine Vielzahl an Alternativen.
 
 ### Eigentschaften:
 
 * Kostenlos
+* Braucht keine Installation
+  * Kann einfach auf den USB Stick gepackt werden
 * Apps für Windows, Mac, Linux, Android und iOS sind vorhanden
 * Viele verschiedene Clients/Apps die das Keepass Format lesen können:
-  * [KeePassXC](https://keepassxc.org/)
-  * [KeePassX](https://www.keepassx.org/)
-  * [KeeWeb](https://keeweb.info/)
+  * PC
+    * [KeePassXC](https://keepassxc.org/)
+    * [KeePassX](https://www.keepassx.org/)
+    * [KeeWeb](https://keeweb.info/)
+  * Smartphone
+    * [Keepass2Droid](https://play.google.com/store/apps/details?id=keepass2android.keepass2android)
+    * [Keepass2Android Offline](https://play.google.com/store/apps/details?id=keepass2android.keepass2android_nonet)
+    * [MiniKeepass](https://apps.apple.com/de/app/minikeepass/id451661808)
 * OpenSource
-* Kostenlos
 * Speichert die Passwörter lokal auf der Festplatte
 * Keine Onlinezwang
-* Keine Synchronisierung (Kann durch Dropbox, Owncloud nachgerüstet werden)
+* Keine Synchronisierung (Kann durch Dropbox, Google Drive, Microsoft Ondrive, etc. nachgerüstet werden)
 * Hat sehr viele Plugins: [KeePass Plugins and Extensions](https://keepass.info/plugins.html)
 * In vielen Sprachen verfügbar (https://keepass.info/translations.html)
 * Anpassbar auf viele Anwedungsfälle weit über dem Speichern von Passwörtern für Webseiten
+  * TANS
+  * SSH Logins mit Putty
 * Mächtigstes Tool
 
 ### Lohnenswerte Plugins
@@ -215,7 +287,16 @@ Bitwarden Logo
 
 
 
+Browser Plug ins erklären: Vor-und Nachteile
+Backup des Passwortmanagers?
+
 Was hälst du von Passwortmanagern?
 Geschmäcker und Anforderungen variieren. Ich kenne auch nicht jeden Passwortmanager auf dem Markt. Daher verzeih mir, dass ich deinen Favoriten nicht gelistet habe und schreib es einfach in die Kommentare. Welchen Passwortmanager nutzt du und vor allem warum?
-Quellen
+
+# Quellen
+
 [1] https://www.bsi-fuer-buerger.de/BSIFB/DE/Empfehlungen/Passwoerter/Passwort_Manager/Passwort_Manager_node.html
+
+[2] https://stadt-bremerhaven.de/google-g-suite-passwoerter-lagen-viele-jahre-im-klartext-vor/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+stadt-bremerhaven%2FdqXM+%28Caschys+Blog%29
+
+https://netzpolitik.org/2018/kleines-einmaleins-der-digitalen-selbstverteidigung/#Browser
