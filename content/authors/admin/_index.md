@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Writer, Administrator
+role: Administrator
 
 # Organizations/Affiliations
 organizations:
@@ -18,16 +18,25 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ich interessiere mich für 
+bio: Nach meinem Ingenieursstudium habe ich mich meiner Leidenschaft, der IT gewidmet. Als Systems Architect modernisiere ich die Infrastruktur in einem Kölner Unternehmen und lerne jeden Tag etwas neues.
 
 interests:
-- 
+- Heim Automatisierung mit Home Assistant
+- Infrastrukur als Code
+- Cloudnative Infrastrukur
+- Linux
+- Programmierung
+- Bücher (Business, IT und Fantasy)
+- Sport
 
 education:
   courses:
-  # - course: PhD in Artificial Intelligence
-  #   institution: Stanford University
-  #   year: 2012
+  - course: Master of Science in Qualitätsingenieurwesen
+    institution: Bergische Universität Wuppertal
+    year: 2016
+  - course: Bachelor of Engineering in Rettungsingenieurwesen
+    institution: Fachhochschule Köln
+    year: 2013
 
 
 # Social/Academic Networking
@@ -38,15 +47,21 @@ social:
 # - icon: envelope
 #   icon_pack: fas
 #   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/GeorgeCushen
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/gcushen
+- icon: rss-square
+  icon_pack: fas
+  link: https://www.ajfriesen.com
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/mr_ajfriesen
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/andrej-friesen/
+- icon: xing-square
+  icon_pack: fab
+  link: https://www.xing.com/profile/Andrej_Friesen3
+- icon: github
+  icon_pack: fab
+  link: https://github.com/ajfriesen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,7 +75,8 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Administrator
-- Writer
 ---
 
-Andrej Friesen ist ein Software and Systems Engineer.
+Andrej Friesen arbeitet zur Zeit als Systems Architect in einem Kölner Unternehmen.
+Nebenbei bloggt er auf https://www.ajfriesen.com und arbeitet an Technik-Tip.
+Am Wochenende geht es dabei meist raus in die Natur.

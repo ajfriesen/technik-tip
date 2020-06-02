@@ -27,3 +27,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+Photo by Anthony from Pexels
+
+https://www.pexels.com/photo/analog-audio-backup-broken-170290/
