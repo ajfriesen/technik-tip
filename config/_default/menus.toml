@@ -1,0 +1,67 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+[[main]]
+  name = "Beiträge"
+  url = "#posts"
+  weight = 10
+
+# [[main]]
+#   name = "Kurse"
+#   url = "courses/"
+#   weight = 50
+
+
+# [[main]]
+#   name = "Passwörter"
+#   url = "categories/passworter/"
+#   weight = 60
+
+[[main]]
+  name = "test"
+  url = "categories/"
+  weight = 20
+  identifier = "categories"
+
+[[main]]
+  name = "Heimnetz"
+  url = "categories/"
+  weight = 20
+  identifier = "Heimnetz"
+
+[[main]]
+  name = "Internet-Anschluss"
+  url = "post/internet-anschluss"
+  weight = 10
+  parent = "Heimnetz"
+
+[[main]]
+  name = "Passwörter"
+  url = "categories/"
+  weight = 20
+  identifier = "Passwörter"
+
+[[main]]
+  name = "Sicher Passwörter"
+  url = "post/0001-was-sind-sichere-passwoerter/"
+  weight = 10
+  parent = "Passwörter"
+
+[[main]]
+  name = "Kontakt"
+  url = "#contact"
+  weight = 50
+
+[[main]]
+  name = "Über uns"
+  url = "ueber_uns"
+  weight = 60
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# [[main]]
+#    name = "CV"
+#    url = "files/cv.pdf"
+#    weight = 70

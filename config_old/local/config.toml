@@ -1,0 +1,29 @@
+baseURL = "https://www.technik-tip.de/"
+languageCode = "de-de"
+title = "Technik-Tip"
+paginate = 3
+
+googleAnalytics = "XX-123456789-0"
+
+enableEmoji=true
+
+[module]
+  [[module.imports]]
+    # path = "github.com/ajfriesen/hugo-theme-ajfriesen"
+    path = "../../hugo-theme-ajfriesen"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  author = "authors"
+
+
+[params]
+  dateFormat = "2.1.2006"
+  Author = "Andrej Friesen"
+  googleAnalyticsTrackingCode = "UA-140381777-1"
+
+[permalinks]
+    page = "/:slug/"
+    articles = "/artikel/:slug/"
+    posts = "/:section/:slug/"

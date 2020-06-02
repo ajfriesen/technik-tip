@@ -12,12 +12,15 @@
 ## Development
 
 ```
-hugo serve --environment local -D
+hugo serve -D
 ```
+## New content
+
+hugo new --kind post -D post/title
 
 ### Update theme
 
-hugo mod get -u github.com/ajfriesen/hugo-theme-ajfriesen
+
 
 ## Datenschutz
 
