@@ -8,7 +8,7 @@ featured: false
 authors: []
 lastmod: 2020-06-01T20:43:37.000Z
 tags: []
-categories: []
+categories: ["Alltags Tips"]
 projects: []
 image:
   caption: ""

@@ -6,7 +6,7 @@ subtitle: ""
 summary: ""
 authors: []
 tags: []
-categories: []
+categories: ["Alltags Tips"]
 date: 2020-06-01T20:14:34+02:00
 lastmod: 2020-06-01T20:14:34+02:00
 featured: false

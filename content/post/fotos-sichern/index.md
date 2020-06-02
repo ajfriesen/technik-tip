@@ -6,7 +6,7 @@ subtitle: ""
 summary: ""
 authors: []
 tags: []
-categories: []
+categories: ["Daten sichern"]
 date: 2020-06-02T22:24:17+02:00
 lastmod: 2020-06-02T22:24:17+02:00
 featured: false
