@@ -35,13 +35,8 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using
 &lt;a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further talk details can easily be added to this page using &lt;em>Markdown&lt;/em> and $\rm \LaTeX$ math code.&lt;/p></description></item><item><title>An example preprint / working paper</title><link>/publication/preprint/</link><pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate><guid>/publication/preprint/</guid><description>&lt;div class="alert alert-note">
-&lt;div>
-Click the &lt;em>Slides&lt;/em> button above to demo Academic&amp;rsquo;s Markdown slides feature.
-&lt;/div>
-&lt;/div>
-&lt;p>Supplementary notes can be added here, including
-&lt;a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/" target="_blank" rel="noopener">code and math&lt;/a>.&lt;/p></description></item><item><title>Slides</title><link>/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-academic">Create slides in Markdown with Academic&lt;/h1>
+&lt;p>Further talk details can easily be added to this page using &lt;em>Markdown&lt;/em> and $\rm \LaTeX$ math code.&lt;/p></description></item><item><title>Fotos Sichern</title><link>/post/fotos-sichern/</link><pubDate>Tue, 02 Jun 2020 22:24:17 +0200</pubDate><guid>/post/fotos-sichern/</guid><description>&lt;p>Photo by Kaboompics .com from Pexels&lt;/p>
+&lt;p>&lt;a href="https://www.pexels.com/photo/old-photos-in-the-wooden-box-5842/">https://www.pexels.com/photo/old-photos-in-the-wooden-box-5842/&lt;/a>&lt;/p></description></item><item><title>Slides</title><link>/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-academic">Create slides in Markdown with Academic&lt;/h1>
 &lt;p>
 &lt;a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic&lt;/a> |
 &lt;a href="https://sourcethemes.com/academic/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>
@@ -165,40 +160,21 @@ color: navy;
 &lt;p>Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p>
 &lt;p>Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p>
 &lt;p>Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p>
-&lt;p>Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p></description></item><item><title>An example journal article</title><link>/publication/journal-article/</link><pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate><guid>/publication/journal-article/</guid><description>&lt;div class="alert alert-note">
-&lt;div>
-Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-&lt;/div>
-&lt;/div>
-&lt;div class="alert alert-note">
-&lt;div>
-Click the &lt;em>Slides&lt;/em> button above to demo Academic&amp;rsquo;s Markdown slides feature.
-&lt;/div>
-&lt;/div>
-&lt;p>Supplementary notes can be added here, including
-&lt;a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/" target="_blank" rel="noopener">code and math&lt;/a>.&lt;/p></description></item><item><title>An example conference paper</title><link>/publication/conference-paper/</link><pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate><guid>/publication/conference-paper/</guid><description>&lt;div class="alert alert-note">
-&lt;div>
-Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-&lt;/div>
-&lt;/div>
-&lt;div class="alert alert-note">
-&lt;div>
-Click the &lt;em>Slides&lt;/em> button above to demo Academic&amp;rsquo;s Markdown slides feature.
-&lt;/div>
-&lt;/div>
-&lt;p>Supplementary notes can be added here, including
-&lt;a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/" target="_blank" rel="noopener">code and math&lt;/a>.&lt;/p></description></item><item><title/><link>/ueber_uns/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ueber_uns/</guid><description>&lt;h1 id="über-uns">Über uns&lt;/h1>
+&lt;p>Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p></description></item><item><title/><link>/ueber_uns/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ueber_uns/</guid><description>&lt;h1 id="über-uns">Über uns&lt;/h1>
+&lt;p>Eigentlich bin ich momentan hier allein am werkeln.
+Aber es soll nicht um mich gehen sondern um das Projekt, welches eventuell ein bisschen größer wird.&lt;/p>
 &lt;h2 id="mission">Mission&lt;/h2>
-&lt;p>Wir alle müssen fast täglich Entscheidungen über unsere Finanzen treffen. Von kleinen, wie einem Handyvertrag, bis zu ganz großen, wie einer Baufinanzierung. Aber wer sagt einem ehrlich, welche Entscheidung die richtige ist und wie man zum optimalen Ergebnis kommt? Genau dafür haben wir Finanztip gegründet.&lt;/p>
-&lt;p>Unsere Mission ist es, allen Menschen mehr finanzielle Freiheit zu ermöglichen – und damit zu einer gerechteren Welt beizutragen. Um das zu erreichen, analysieren unsere Experten gründlich die vielen Angebote auf dem Markt – und empfehlen Ihnen dann ganz konkret, was Sie tun sollten. Diesen Empfehlungen können Sie vertrauen. Denn als 100%ige Tochter der Finanztip Stiftung sind wir nicht gewinnorientiert, sondern ausschließlich dem Interesse der Verbraucher verpflichtet. Alle Gewinnausschüttungen von Finanztip werden in der Stiftung für gemeinnützige Projekte zur Förderung der Finanzbildung verwendet - wie z.B. für unsere Bildungsinitiative Finanztip Schule.&lt;/p>
-&lt;p>Wir wollen, dass jeder Haushalt in Deutschland Finanztip nutzt und damit die richtigen Entscheidungen trifft, Fehler vermeidet und auf diese Weise viel Geld spart. Daher ist unser Angebot kostenlos im Internet für jeden verfügbar.&lt;/p>
-&lt;p>Schon heute werden unsere über 1.000 Ratgeber monatlich von mehr als 4 Millionen Besuchern genutzt. Und mehr als 500.000 Verbraucher erfahren jede Woche in unserem Newsletter, wo man ganz konkret sparen kann. Mal bei großen Dingen. Und mal bei kleinen Schnäppchen. Am besten melden Sie sich gleich an.&lt;/p>
-&lt;h2 id="vision">Vision&lt;/h2>
+&lt;p>Technik ist heutzutage überall.
+Niemand kommt ohne aus.
+Spätestens, wenn man ein Smartphone oder Laptop besitzt und das Internet nutzt.&lt;/p>
+&lt;p>Die Grundbildung über Technik ist so gut wie gar nicht vorhanden und von daher stellen sich viele Leute die selben Fragen.
+Diese Fragen, die mir immer wieder gestellt werden sammel ich und schreibe dazu einen Aritkel.&lt;/p>
+&lt;p>Dazu kommen noch generelle Tips, die ich jedem geben würde, um sich das Leben deutlich einfacher zu machen.&lt;/p>
+&lt;p>Warum das noch keiner der großen Computer Fachzeitschriften gemacht hat ist mir ein Rätsel.
+Verkauft sich anscheinend nicht gut.&lt;/p>
 &lt;h2 id="werte">Werte&lt;/h2>
-&lt;p>Wir sind&amp;hellip;&lt;/p>
-&lt;p>aufrichtig – wir sind uns und anderen gegenüber ehrlich, transparent, verlässlich.
-unabhängig – wir arbeiten ausschließlich im Sinne der Verbraucher.
-sorgfältig – wir arbeiten gewissenhaft und präzise.
-lösungsorientiert – wir liefern leicht anwendbare Ergebnisse mit konkretem Nutzen.
-respektvoll – wir begegnen allen wertschätzend und vorurteilsfrei.
-Mit diesen Werten verdienen wir uns täglich unsere Glaubwürdigkeit – und das Vertrauen der Menschen.&lt;/p></description></item></channel></rss>
+&lt;p>Die Tips sollen&amp;hellip;&lt;/p>
+&lt;p>praktisch sein
+wenig Aufwand erfordern
+für jedermann Umsetzbar sein
+nur dann empholen werden, wenn ich diese auch selber nutzen würde&lt;/p></description></item></channel></rss>
