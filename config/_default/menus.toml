@@ -26,16 +26,40 @@
   identifier = "categories"
 
 [[main]]
-  name = "Heimnetz"
+  name = "Daten sichern"
   url = "categories/"
   weight = 20
-  identifier = "Heimnetz"
+  identifier = "daten-sichern"
 
 [[main]]
-  name = "Internet-Anschluss"
-  url = "post/internet-anschluss"
+  name = "Fotos sichern"
+  url = "post/fotos-sichern"
   weight = 10
-  parent = "Heimnetz"
+  parent = "daten-sichern"
+
+[[main]]
+  name = "Backups"
+  url = "post/backups"
+  weight = 20
+  parent = "daten-sichern"
+
+[[main]]
+  name = "Alltags Tips"
+  url = "categories/"
+  weight = 20
+  identifier = "alltags-tips"
+
+[[main]]
+  name = "Antiviren Programme"
+  url = "post/antiviren-programme"
+  weight = 10
+  parent = "alltags-tips"
+
+[[main]]
+  name = "Werbung im Internet blockieren"
+  url = "post/werbung-im-internet-blockieren"
+  weight = 20
+  parent = "alltags-tips"
 
 [[main]]
   name = "Passwörter"
@@ -45,8 +69,26 @@
 
 [[main]]
   name = "Sicher Passwörter"
-  url = "post/0001-was-sind-sichere-passwoerter/"
+  url = "post/sichere-passwoerter/"
   weight = 10
+  parent = "Passwörter"
+
+[[main]]
+  name = "Passwort Buch"
+  url = "post/passwort-buch"
+  weight = 20
+  parent = "Passwörter"
+
+[[main]]
+  name = "Passwortmanager"
+  url = "post/passwortmanager"
+  weight = 30
+  parent = "Passwörter"
+
+[[main]]
+  name = "2 Faktor Authentifizierung"
+  url = "post/2-faktor-authentifizierung"
+  weight = 40
   parent = "Passwörter"
 
 [[main]]
