@@ -30,6 +30,7 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3.6.1
       with:
         deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-        publish_branch: gh-pages
+        external_repository: ajfriesen/technik-tip-webseite
+        publish_branch: master
         publish_dir: ./public
         allow_empty_commit: true
