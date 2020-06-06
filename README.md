@@ -1,5 +1,7 @@
 # technik-tip
 
+![github pages](https://github.com/ajfriesen/technik-tip/workflows/github%20pages/badge.svg?branch=master)
+
 ## Used Technologies
 
 - This site is hosted on Github Pages
