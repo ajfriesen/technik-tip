@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: ajfriesen/technik-tip
-  branch: gh-pages
+  branch: master
   site-domain: festive-poitras-736d91
 media_folder: 'static/img/'
 public_folder: 'img'
