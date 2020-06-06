@@ -21,7 +21,7 @@ Verkauft sich anscheinend nicht gut.
 
 Die Tips sollen...
 
-praktisch sein
-wenig Aufwand erfordern
-für jedermann Umsetzbar sein
-nur dann empholen werden, wenn ich diese auch selber nutzen würde
+* praktisch sein
+* wenig Aufwand erfordern
+* für jedermann Umsetzbar sein
+* nur dann empholen werden, wenn ich diese auch selber nutzen würde
