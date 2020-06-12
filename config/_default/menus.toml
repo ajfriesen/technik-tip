@@ -19,11 +19,11 @@
 #   url = "categories/passworter/"
 #   weight = 60
 
-[[main]]
-  name = "test"
-  url = "categories/"
-  weight = 20
-  identifier = "categories"
+# [[main]]
+#   name = "test"
+#   url = "categories/"
+#   weight = 20
+#   identifier = "categories"
 
 [[main]]
   name = "Daten sichern"
