@@ -27,3 +27,11 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+<!--more-->
+
+- Warum ein Passwortmanager
+- Wie funktionieren Passwortmanager
+- Empehlung (Bitwarden)
+- Ausblick auf andere Passwortmanager
+- 

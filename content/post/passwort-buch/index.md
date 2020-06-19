@@ -27,3 +27,42 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+Passwörter verwalten ist ein graus.
+Es gibt viel zu viele Dienste mit Passwörtern, sodass man sich die alle merken kann.
+Wenn man sich doch alle merken kann, weil man immer das gleiche Passwort nutzt macht man grundlegend was falsch!
+
+Es gibt eine alternative für Passwortmanager Applikationen auf dem Handy oder PC, das Passwortbuch.
+
+<!--more-->
+
+## Das Passwortbuch
+
+Simpler Passwörter verwalten als mit einem Notizbuch geht es nicht.
+Für jedes Konto erstellt man einen Eintrag und trägt die Notwendigen Details ein.
+
+* Name des Dienstes
+* Login Name
+* E-Mail
+* Passwort
+* Webseite/App
+
+
+
+Vorteile:
+
+* Einfach
+* Kein Installation
+* Kein Programm lernen
+* Zugänglich
+* Datenkontrolle
+
+Nachteil:
+
+* Aufwändig
+* Stationiär nur zu Hause nutzbar
+* Backups sind schwierig
+* Kapazität (bei vielen Einträgen wirds doof)
+* Keine Suchfunktion
+* Kein Komfortfunktion
+* Änderungen sind schwierig
