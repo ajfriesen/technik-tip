@@ -4,8 +4,8 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Beiträge"
-  url = "#posts"
+  name = "Ratgeber"
+  url = "/post"
   weight = 10
 
 # [[main]]
@@ -25,41 +25,41 @@
 #   weight = 20
 #   identifier = "categories"
 
-[[main]]
-  name = "Daten sichern"
-  url = "categories/"
-  weight = 20
-  identifier = "daten-sichern"
+# [[main]]
+#   name = "Daten sichern"
+#   url = "categories/"
+#   weight = 20
+#   identifier = "daten-sichern"
 
-[[main]]
-  name = "Fotos sichern"
-  url = "post/fotos-sichern"
-  weight = 10
-  parent = "daten-sichern"
+# [[main]]
+#   name = "Fotos sichern"
+#   url = "post/fotos-sichern"
+#   weight = 10
+#   parent = "daten-sichern"
 
-[[main]]
-  name = "Backups"
-  url = "post/backups"
-  weight = 20
-  parent = "daten-sichern"
+# [[main]]
+#   name = "Backups"
+#   url = "post/backups"
+#   weight = 20
+#   parent = "daten-sichern"
 
-[[main]]
-  name = "Alltags Tips"
-  url = "categories/"
-  weight = 20
-  identifier = "alltags-tips"
+# [[main]]
+#   name = "Alltags Tips"
+#   url = "categories/"
+#   weight = 20
+#   identifier = "alltags-tips"
 
-[[main]]
-  name = "Antiviren Programme"
-  url = "post/antiviren-programme"
-  weight = 10
-  parent = "alltags-tips"
+# [[main]]
+#   name = "Antiviren Programme"
+#   url = "post/antiviren-programme"
+#   weight = 10
+#   parent = "alltags-tips"
 
-[[main]]
-  name = "Werbung im Internet blockieren"
-  url = "post/werbung-im-internet-blockieren"
-  weight = 20
-  parent = "alltags-tips"
+# [[main]]
+#   name = "Werbung im Internet blockieren"
+#   url = "post/werbung-im-internet-blockieren"
+#   weight = 20
+#   parent = "alltags-tips"
 
 [[main]]
   name = "Passwörter"
@@ -68,16 +68,16 @@
   identifier = "Passwörter"
 
 [[main]]
-  name = "Sicher Passwörter"
+  name = "Sichere Passwörter"
   url = "post/sichere-passwoerter/"
   weight = 10
   parent = "Passwörter"
 
-[[main]]
-  name = "Passwort Buch"
-  url = "post/passwort-buch"
-  weight = 20
-  parent = "Passwörter"
+# [[main]]
+#   name = "Passwort Buch"
+#   url = "post/passwort-buch"
+#   weight = 20
+#   parent = "Passwörter"
 
 [[main]]
   name = "Passwortmanager"
@@ -85,11 +85,11 @@
   weight = 30
   parent = "Passwörter"
 
-[[main]]
-  name = "2 Faktor Authentifizierung"
-  url = "post/2-faktor-authentifizierung"
-  weight = 40
-  parent = "Passwörter"
+# [[main]]
+#   name = "2 Faktor Authentifizierung"
+#   url = "post/2-faktor-authentifizierung"
+#   weight = 40
+#   parent = "Passwörter"
 
 [[main]]
   name = "Kontakt"
