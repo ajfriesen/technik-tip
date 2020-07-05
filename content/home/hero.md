@@ -2,13 +2,13 @@
 # Hero widget.
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 20  # Order that this section will appear.
 
-title = "Technik-Tip"
+title = "Wir sammeln Themen und Fragen"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "hero-academic.png"
+hero_media = "ask-blackboard-chalk-board-chalkboard-356079.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -17,11 +17,11 @@ hero_media = "hero-academic.png"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  color = "Brown"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  # gradient_start = "#4bb4e3"
+  # gradient_end = "#2b94c3"
   
   # Background image.
   # image = ""  # Name of image in `static/img/`.
@@ -37,10 +37,10 @@ hero_media = "hero-academic.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://github.com/ajfriesen/technik-tip"
-  label = "Du möchtest mitmachen?"
+  url = "https://docs.google.com/forms/d/e/1FAIpQLSfc2GLWBCYHPzRescP8S_L1rE0MW8NNym96rmHRpZLjU1gWog/viewform?usp=sf_link"
+  label = "Schreib uns deine Fragen"
   icon_pack = "fas"
-  icon = "hands-helping"
+  icon = "pen"
   
 #[cta_alt]
 #  url = "https://sourcethemes.com/academic/"
@@ -51,13 +51,8 @@ hero_media = "hero-academic.png"
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**Alles relevante über Technik für den Alltag für jedermann erklärt**
+Mit Technik-Tip wollen wir Themen der IT Welt für den Alltag und für Jedermann einfach erklären.
 
-Technik ist überall und jeder muss sich damit beschäftigen.
-Sei es das Smartphone oder der Internetanschluss, da fangen die Fragen schon an.
-
-Mit Technik-Tip wollen wir, dass jeder selbstbestimmt zu seinem Ziel kommt.
-
-<span style="text-shadow: none;">
+<!-- <span style="text-shadow: none;">
   <a class="github-button" href="https://github.com/ajfriesen/technik-tip" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a>
-<script async defer src="https://buttons.github.io/buttons.js"></script></span>
+<script async defer src="https://buttons.github.io/buttons.js"></script></span> -->
