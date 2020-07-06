@@ -1,4 +1,179 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Technik-Tip</title><link>/</link><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><description>Technik-Tip</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>Andrej Friesen</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate><image><url>img/map[gravatar:%!s(bool=false) shape:circle]</url><title>Technik-Tip</title><link>/</link></image><item><title>Datenschutz</title><link>/privacy/</link><pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate><guid>/privacy/</guid><description>&lt;p>Technik-Tip nimmt den Schutz Ihrer persönlichen Daten sehr ernst und halten uns strikt an die Regeln der Datenschutzgesetze. Personenbezogene Daten werden auf dieser Webseite nur im technisch notwendigen Umfang erhoben. In keinem Fall werden die erhobenen Daten verkauft oder aus anderen Gründen an Dritte weitergegeben.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Technik-Tip</title><link>/</link><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><description>Technik-Tip</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>Andrej Friesen</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate><image><url>img/map[gravatar:%!s(bool=false) shape:circle]</url><title>Technik-Tip</title><link>/</link></image><item><title>Sichere Passwörter</title><link>/post/sichere-passwoerter/</link><pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate><guid>/post/sichere-passwoerter/</guid><description>&lt;p>Passwörter sind nervig, aber notwendig.
+Hier erfährst du was sichere Passwörter sind und worauf du bei der Erstellung von Passwörtern achten solltest.
+Vor allem auch was du nicht machen solltest und auch warum.&lt;/p>
+&lt;hr>
+&lt;div class="alert alert-primary">
+&lt;div>
+Das wichtigste in Kürze&lt;/p>
+&lt;ul>
+&lt;li>✅ Lange Passwörter sind sicherer als komplexe Passwörter&lt;/li>
+&lt;li>✅ Passphrasen sind besser als Passwörter&lt;/li>
+&lt;li>✅ Eine Passwortlänge von mindestens 12 Zeichen&lt;/li>
+&lt;li>❌ Das selbe Passwort auf mehreren Seiten verwenden ist nicht erlaubt!&lt;/li>
+&lt;li>❌ Persönliche Daten haben in Passwörtern nichts zu suchen (Namen, Wohnorte, Geburtsdaten, Sonstige perönliche und öffentlich auffindbare Informationen)&lt;/li>
+&lt;li>❌ Tastaturmuster wie ASDF, 1234, jklö auf jeden Fall vermeiden&lt;/li>
+&lt;li>❌ Alte Passwörter niemals wieder verwenden&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-info">
+&lt;div>
+So gehst du vor:&lt;/p>
+&lt;ul>
+&lt;li>Passwortmanager nutzen (Artikel folgt)&lt;/li>
+&lt;li>Falls ein Passwortmanager für dich nichts ist kann ein Password Buch helfen (Artikel folgt)&lt;/li>
+&lt;li>Für wichtige Konten (E-Mail, Bank, etc.) 2-Faktor-Authentifizierung aktivieren (Artikel folgt)&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;h2>Inhaltsverzeichnis&lt;/h2>
+&lt;nav id="TableOfContents">
+&lt;ul>
+&lt;li>&lt;a href="#was-sind-passphrasen">Was sind Passphrasen?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#wie-merke-ich-mir-ein-passwort">Wie merke ich mir ein Passwort?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#warum-sind-lange-passwörter-besser-als-komplexe-passwörter">Warum sind lange Passwörter besser als komplexe Passwörter?&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#warum-sind-denn-jetzt-lange-passwörter-besser-als-komplexe-aber-kurze-passwörter">Warum sind denn jetzt lange Passwörter besser als komplexe aber kurze Passwörter?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#wie-lang-sollen-passwörter-denn-sein">Wie lang sollen Passwörter denn sein?&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="#warum-persönliche-daten-in-passwörtern-nichts-verlorgen-haben">Warum persönliche Daten in Passwörtern nichts verlorgen haben&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#warum-passwörter-nicht-wiederverwendet-werden-dürfen">Warum Passwörter nicht wiederverwendet werden dürfen&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#quellen">Quellen&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/nav>
+&lt;h2 id="was-sind-passphrasen">Was sind Passphrasen?&lt;/h2>
+&lt;p>Eine Passphrasen ist eigentlich nicht anderes als ein paar Worte aneinandergereiht.
+Um eine sichere Passphrase zu erstellen kann man einfach folgende Schirtte befolgen:&lt;/p>
+&lt;ol>
+&lt;li>Ein paar Worte hintereinander schreiben (Am besten völlig ohne Zusammenhand)&lt;/li>
+&lt;li>Ein paar Buchstaben durch Ziffern austauschen (Ziffern werden häufig von Diensten bei Passwörtern verlangt)&lt;/li>
+&lt;li>Die Worte durch Sonderzeichen wie einem &amp;ldquo;-&amp;rdquo; ternnen (Sonderzeichen werden häufig von Diensten bei Passwörtern verlangt)&lt;/li>
+&lt;/ol>
+&lt;p>Die Wörter aus der Passphrase können auch aus verschiedenen Sprachen kommen.
+Sei einfach kreativ.&lt;/p>
+&lt;p>Schon hat man eine sichere Passphrase erzeugt.
+Diese ist länger als ein Passwort, lässt sich besser merken und ist zudem sicherer.&lt;/p>
+&lt;p>Wichtig:
+Bitte keine bekannten Sätze oder Zitate nutzen!&lt;/p>
+&lt;p>Beispiel für eine Passphrase mit einer Passwortlänge von 36 Zeichen wäre:&lt;/p>
+&lt;blockquote>
+&lt;p>Haus!-Apfel-Auto-G0rilla-Advent5kranz-3Walnuss&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="wie-merke-ich-mir-ein-passwort">Wie merke ich mir ein Passwort?&lt;/h2>
+&lt;p>Passphrasen sind definitiv zu bevorzugen, da diese meist länger sind als Passwörter, aber auch Passwörter kann man sich mit einer einfachen Methode merken.&lt;/p>
+&lt;p>Erstellen einen Satz wie:&lt;/p>
+&lt;p>&lt;em>&lt;strong>M&lt;/strong>eine &lt;strong>H&lt;/strong>eizung &lt;strong>f&lt;/strong>unktioniert &lt;strong>i&lt;/strong>m &lt;strong>W&lt;/strong>inter &lt;strong>n&lt;/strong>icht &lt;strong>u&lt;/strong>nd &lt;strong>d&lt;/strong>as &lt;strong>f&lt;/strong>ind &lt;strong>i&lt;/strong>ch &lt;strong>t&lt;/strong>otal &lt;strong>d&lt;/strong>oof &lt;strong>v&lt;/strong>on &lt;strong>m&lt;/strong>einem &lt;strong>V&lt;/strong>ermieter&lt;/em>&lt;/p>
+&lt;p>Nimmt man jeden ersten Buchstaben eines Wortes, bekommt man folgendes Passwort:&lt;/p>
+&lt;p>&lt;em>MHfiWnudfitdvmV&lt;/em>&lt;/p>
+&lt;p>Nun könnten noch einige Buchstaben durch Zahlen oder Sonderzeichen ersetzt werden und man hat ein solides Passwort generiert, welches man sich darüber hinaus noch gut merken kann.
+Bitte immer daran denken: Je länger desto besser!&lt;/p>
+&lt;hr>
+&lt;h2 id="warum-sind-lange-passwörter-besser-als-komplexe-passwörter">Warum sind lange Passwörter besser als komplexe Passwörter?&lt;/h2>
+&lt;p>Dieses comic von XKDC zeigt es schnell und einfach (leider nur auf englisch):&lt;/p>
+&lt;figure id="figure-password-strength-by-xkcd">
+&lt;a data-fancybox="" href="./password_strength.png" data-caption="Password Strength by xkcd">
+&lt;img src="./password_strength.png" alt="" width="100%" >
+&lt;/a>
+&lt;figcaption>
+Password Strength by xkcd
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Immer wieder wird uns gesagt, dass ein Passwort sicher sein soll.
+Mindestens eine Zahl, auf jeden Fall 2 Sonderzeichen, Groß- und Kleinbuchstaben.
+Was passiert?
+Man nimmt einen Begriff (häufig den eigenen Namen oder den des Partners, der Kinder etc.), tauscht ein paar Buchstaben durch Sonderzeichen und Zahlen aus oder hängt sie lediglich vorne und hinten an den Begriff und schon ist das Passwort fertig.&lt;/p>
+&lt;p>Dann wird aus &lt;strong>Andrej&lt;/strong> schnell &lt;strong>AnDr3|!&lt;/strong> oder &lt;strong>!Andrej456&lt;/strong> und schnell tritt der Glaube auf, dass sei ein sicheres Passwort.&lt;/p>
+&lt;p>Leider ist dies meist begriffsbedingt (Namen sind selten länger als 8 Zeichen) auch ein ziemlich kurzes Passwort und somit auch dementsprechend unsicher.
+Dazu kommt, dass ich nicht der einzige mit diesem Namen bin und jemand anderes dieses Passwort schon nutzt?
+An sich ist das nicht schlimm, aber dadurch steigt die Wahrscheinlichkeit, dass dieses Passwort irgendwann in einer Passwortdatenbank landet.&lt;/p>
+&lt;h3 id="warum-sind-denn-jetzt-lange-passwörter-besser-als-komplexe-aber-kurze-passwörter">Warum sind denn jetzt lange Passwörter besser als komplexe aber kurze Passwörter?&lt;/h3>
+&lt;p>Eine sehr gute Erklärung gibt es von Heiko Schröder.
+Bei Interesse kann hier der ganze Artikel direkt gelesen werden:
+&lt;a href="https://www.1pw.de/brute-force.php" target="_blank" rel="noopener">Zusammenhang von Brute-Force-Attacken und Passwortlängen&lt;/a>&lt;/p>
+&lt;p>Zusammengefasst und veranschaulicht gibt er folgendes Beispiel:&lt;/p>
+&lt;p>Die Formel um alle Kombinationsmöglichkeiten von Zeichen zu bekommen ist wie folgt:&lt;/p>
+&lt;p>&lt;strong>Kombinationsmöglichkeiten = Zeichenanzahl&lt;sup>Passwortlänge&lt;/sup>&lt;/strong>&lt;/p>
+&lt;p>Bei einem Passwort von 7 Zeichen und 26 verschiedenen Kleinbuchstaben (ä,ö,ü,ß ausgeschlossen) gibt es folgende Anzahl an Kombinationsmöglichkeiten:&lt;/p>
+&lt;p>Kombinationen = 26 &lt;sup>7&lt;/sup> &lt;br>
+= 26 * 26 * 26 * 26 * 26 * 26 * 26 &lt;br>
+= 8.031.810.176&lt;/p>
+&lt;p>Gleiche Zeichenanzahl aber eine Passwortlänge von 8 anstatt 7:&lt;/p>
+&lt;p>Kombinationen = 26 &lt;sup>8&lt;/sup>&lt;br>
+= 26 * 26 * 26 * 26 * 26 * 26 * 26 * 26&lt;br>
+= 208.827.064.576 (Mehr als 208 Milliarden) &lt;br>&lt;/p>
+&lt;p>Es ist also klar: die Passwortlänge hat einen unfassbar großen Einfluss auf die Kombinationsmöglichkeiten.
+Je länger das Passwort desto großer die Kombinationsmöglichkeiten und desto schwieriger ist es dieses zu erraten oder einfach auszuprobieren.
+Die Zeichen sind nur begrenzt erweiterbar, schließlich sind irgenwann alle Zeichen auf der Tastatur enthalten (Großbuchstaben, Sonderzeichen und Ziffern).
+Die Passwortlänge hingegen ist unendlich (theoretisch) erweiterbar und lässt die Kombinationsmöglichkeiten in die Höhe schnellen.&lt;/p>
+&lt;p>Warum ist das wichtig?&lt;br>
+Computer sind in den letzten Jahren immer Leistungsfähiger geworden und können unvorstellbar viele Rechenoperationen pro Sekunde durchführen.
+Wir rechnen mit 2.147.483.600 Passwörtern pro Sekunden, die ein Computer ausprobiert kann. (Stand 2016) &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>.&lt;/p>
+&lt;p>Ein Computer braucht für ein Passwort mit der Passwortlänge von 7 Zeichen nur &lt;br>&lt;strong>8.031.810.176 Kombinationen / 2.147.483.600 Passwörter/sec &lt;br>= 3,74 Sekunden&lt;/strong>, um alle Passwortkombinationen auszuprobieren.&lt;/p>
+&lt;p>Für ein Passwort mit einer Passwortlänge von 8 Zeichen sind es &lt;br>&lt;strong>208.827.064.576 Kombinationen / 2.147.483.600 Passwörter/sec &lt;br>= 97 Sekunden &lt;br>= mehr als 1,5 Minuten&lt;/strong>.&lt;/p>
+&lt;p>Für längere Passwörter brauchen Computer einfach länger, um diese zu &amp;ldquo;knacken&amp;rdquo;.&lt;/p>
+&lt;h3 id="wie-lang-sollen-passwörter-denn-sein">Wie lang sollen Passwörter denn sein?&lt;/h3>
+&lt;p>Das ist also nun die Gretchenfrage: Eindeutig und pauschal ist das nicht zu beantworten, da dabei noch weitere Fakrotren eine Rolle spielen.
+Das BSI für Bürger empfielt mindestens 8 Zeichen &lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>.
+Das finde ich persönlich etwas wenig, da man solch ein Passwort mit bspw. einer Zeichenanzahl von 62 (Groß- und Kleinbuchstaben sowie Ziffern) und einer Passwortlänge von 8 Zeichen in 1,18 Tagen durch stupides &amp;ldquo;ausprobieren&amp;rdquo; herausbekommen könnte.&lt;/p>
+&lt;div class="alert alert-dark">
+&lt;div>
+Exkurs:&lt;br>
+Natürlich kann niemand sich jetzt einfach 2 Tage hinsetzten und alle Passwörter der Welt bei einem Dienst ausprobieren.
+Dafür gibt es noch weitere Sicherheitsmechanismen auf Seiten des Dienstes.
+Zum Beispiel hat man nur 3 Versuche und dannach muss man sich wieder freischalten.
+Auch ist es möglich, dass das IT System von dem Dienst diese Versuche erkennt und die Anmeldung von diesen Geräten erstmal sperrt und den echten Benutzer per E-Mail oder SMS benachrichtigt.
+&lt;/div>
+&lt;/div>
+&lt;p>Und je nach Benutzer und Relevanz des Erfolges ein solches Passwort zu knacken ist das ein vertretbarer Auswand.
+Daher würde ich eine Passwortlänge von mindestens 12 Zeichen empfehlen.
+Mit Groß- und Kleinbuchstaben sowie Ziffern bräuchte ein Computer dafür &lt;strong>47639,13 Jahre&lt;/strong>.&lt;/p>
+&lt;p>Das ist defintiv kein vertretbarer Aufwand.
+Für dich also ein Grund mehr sich für eine Passphrase anstatt kurzes und komplexes Passwort zu entscheiden.&lt;/p>
+&lt;h2 id="warum-persönliche-daten-in-passwörtern-nichts-verlorgen-haben">Warum persönliche Daten in Passwörtern nichts verlorgen haben&lt;/h2>
+&lt;p>Beim Thema Sicherheit geht es generell immer um das Risko.
+100%ige Sicherheit gibt es nicht, wer das verspricht lügt schlicht und ergreifend.
+Das Risiko für die jeweilige Person ist dabei immer unterschiedlich.&lt;/p>
+&lt;p>Personen, die sowieso in der öffentlichkeit stehen und dadruch viele Informationen über sich für Dritte einsehbar machen, sind potenziell gefährdeter als der der Otto Normal Verbraucher.
+Das Risiko, dass Dritte auf sensible Daten Zugriff haben wollen steigt (Attraktivität der Daten) und durch die vielen frei auffindbaren Informationen auch das Risiko, dass (schlechte) Passwörter schneller geknackt werden können.&lt;/p>
+&lt;p>Durch soziale Netzwerke, Hobbyseiten, etc. lässt sich allerdings über fast jeden sehr viel herausfinden.
+Facebook Likes auf einer Bandseite, Fotos von Konzerten, ein Foto vom Haustier mit Namen, Geburtstagsgrüße auf der Pinnwand, Lieblingsurlaubsziele und und und.
+Schon kann die Passwortliste möglicher Passwörter erstellt werden.&lt;/p>
+&lt;p>Das Interesse an Personen und dadruch das Risiko sind natürlich sehr verschieden.&lt;/p>
+&lt;p>Wird das Facebook Passwort einer Schülerin herausgefunden, können sich Mitschüler einen Scherz in ihrem Namen erlauben.
+Bei einem CEO eines großen Unternehmens hingegen kommt man eventuell sogar an seinen E-Mail Account und kann Geschäftsprozesse und sensible Daten einsehen oder Überweisung anfordern.&lt;/p>
+&lt;p>Egal wie hoch das Riskoprofil ist und welche Auswirkungen das haben könnte: Niemand möchte seine Daten gerne aus der Hand geben oder die Kontrolle über ihre Verbreitung verlieren.&lt;/p>
+&lt;p>Daher gilt:&lt;/p>
+&lt;div class="alert alert-warning">
+&lt;div>
+Persönliche Daten sind in Passphrase und Passwort absolut Tabu
+&lt;/div>
+&lt;/div>
+&lt;h2 id="warum-passwörter-nicht-wiederverwendet-werden-dürfen">Warum Passwörter nicht wiederverwendet werden dürfen&lt;/h2>
+&lt;p>Heutzutage ist man bei unzähligen Diensten angemeldet.
+Sei es soziale Netzwerke (Facebook, Twitter, Instagram), Foren, Onlineshops (Amazon, eBay, etc.), Onlinebanking und viel mehr.&lt;/p>
+&lt;p>Das selbe Passwort bei allen Diensten zu verwenden ist grob fahrlässig und das größte Problem für den Privatnutzer.
+Denn auch wenn das Passwort sicher ist, muss es nur einmal geleakt werden und schon sind alle Dienste derjenigen Person in Gefahr.&lt;/p>
+&lt;p>Dann ist der Aufwand enorm groß &lt;em>alle&lt;/em> Passwörter zu ändern.
+Daher ist es so wichtig, immer ein anderes Passwort für unterschiedliche Seiten und Dienste zu verwenden.&lt;/p>
+&lt;p>Ist etwas Unklar?&lt;br>
+Habt ihr sonstige Fragen?&lt;br>
+Schreibt diese einfach unten in die Kommentare oder schreibt eine Mail an
+&lt;a href="mailto:kontakt@technik-tip.de">kontakt@technik-tip.de&lt;/a>&lt;/p>
+&lt;h2 id="quellen">Quellen&lt;/h2>
+&lt;section class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1" role="doc-endnote">
+&lt;p>
+&lt;a href="https://www.1pw.de/brute-force.php" target="_blank" rel="noopener">Zusammenhang von Brute-Force-Attacken und Passwortlängen&lt;/a> &lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2" role="doc-endnote">
+&lt;p>
+&lt;a href="https://www.bsi-fuer-buerger.de/BSIFB/DE/Empfehlungen/Passwoerter/passwoerter_node.html" target="_blank" rel="noopener">BSI für Bürger: Passwörter&lt;/a> &lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/section></description></item><item><title>Datenschutz</title><link>/privacy/</link><pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate><guid>/privacy/</guid><description>&lt;p>Technik-Tip nimmt den Schutz Ihrer persönlichen Daten sehr ernst und halten uns strikt an die Regeln der Datenschutzgesetze. Personenbezogene Daten werden auf dieser Webseite nur im technisch notwendigen Umfang erhoben. In keinem Fall werden die erhobenen Daten verkauft oder aus anderen Gründen an Dritte weitergegeben.&lt;/p>
 &lt;p>Die nachfolgende Erklärung gibt Ihnen einen Überblick darüber, wie wir diesen Schutz gewährleisten und welche Art von Daten zu welchem Zweck erhoben werden.&lt;/p>
 &lt;h2 id="1-erhebung-und-verarbeitung-von-daten">1. Erhebung und Verarbeitung von Daten&lt;/h2>
 &lt;p>Es ist für die Nutzung unserer Website nicht erforderlich, dass Sie personenbezogene Daten angeben.&lt;/p>
