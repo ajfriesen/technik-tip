@@ -1,6 +1,6 @@
 ---
 title: 'Sichere Passwörter'
-subtitle: ''
+subtitle: 'Was sind sichere Passwörter und wie erstellt man diese?'
 summary: ''
 authors:
 - admin
@@ -9,9 +9,9 @@ tags:
 categories:
 - Passwörter
 date: 2019-11-11T00:00:00Z
-lastmod: 2019-11-11T00:00:00Z
-featured: true
-draft: true
+lastmod: 2020-07-06T00:00:00Z
+featured: false
+draft: false
 ---
 
 Passwörter sind nervig, aber notwendig.
@@ -190,7 +190,7 @@ Egal wie hoch das Riskoprofil ist und welche Auswirkungen das haben könnte: Nie
 Daher gilt:
 
 {{% alert warning %}}
-Persönliche Daten sind im Passphrase und Passwort Tabu
+Persönliche Daten sind in Passphrase und Passwort absolut Tabu
 {{% /alert %}}
 
 ## Warum Passwörter nicht wiederverwendet werden dürfen
@@ -203,6 +203,10 @@ Denn auch wenn das Passwort sicher ist, muss es nur einmal geleakt werden und sc
 
 Dann ist der Aufwand enorm groß *alle* Passwörter zu ändern.
 Daher ist es so wichtig, immer ein anderes Passwort für unterschiedliche Seiten und Dienste zu verwenden.
+
+Ist etwas Unklar?  
+Habt ihr sonstige Fragen?  
+Schreibt diese einfach unten in die Kommentare oder schreibt eine Mail an [kontakt@technik-tip.de](mailto:kontakt@technik-tip.de)
 
 ## Quellen
 
