@@ -95,6 +95,7 @@ width="100%"
 caption="Password Strength by xkcd"
 link=https://xkcd.com/936
 target="_blank"
+alt="xkcd Comic über Passwortstärke"
 >}}
 
 Immer wieder wird uns gesagt, dass ein Passwort sicher sein soll.
