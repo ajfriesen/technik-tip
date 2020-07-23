@@ -147,6 +147,7 @@ width="100%"
 caption="Der Schlüssel als Passwort"
 link=https://unsplash.com/photos/hRXIKdxoaPo
 target="_blank"
+alt="offenes Vorhängeschloss mit Schlüssel"
 >}}
 
 Beim Absenden des Formulars erstellt der Browser lokal auf dem PC den Hash.
