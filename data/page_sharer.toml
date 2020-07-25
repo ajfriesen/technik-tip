@@ -71,7 +71,7 @@
   title = "Pinterest"
   icon_pack = "fab"
   icon = "pinterest"
-  enable = false
+  enable = true
 
 [[buttons]]
   id = "tumblr"
@@ -79,4 +79,4 @@
   title = "Tumblr"
   icon_pack = "fab"
   icon = "tumblr"
-  enable = false
+  enable = true
