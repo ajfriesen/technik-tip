@@ -72,8 +72,8 @@ Bitte immer daran denken: Je länger desto besser!&lt;/p>
 &lt;h2 id="warum-sind-lange-passwörter-besser-als-komplexe-passwörter">Warum sind lange Passwörter besser als komplexe Passwörter?&lt;/h2>
 &lt;p>Dieses comic von XKDC zeigt es schnell und einfach (leider nur auf englisch):&lt;/p>
 &lt;figure id="figure-password-strength-by-xkcd">
-&lt;a data-fancybox="" href="./password_strength.png" data-caption="Password Strength by xkcd">
-&lt;img src="./password_strength.png" alt="" width="100%" >
+&lt;a data-fancybox="" href="https://www.technik-tip.de/post/sichere-passwoerter/password_strength_huabb08bc8d740cfb86b14b54911328478_93029_2000x2000_fit_lanczos_2.png" data-caption="Password Strength by xkcd">
+&lt;img data-src="https://www.technik-tip.de/post/sichere-passwoerter/password_strength_huabb08bc8d740cfb86b14b54911328478_93029_2000x2000_fit_lanczos_2.png" class="lazyload" alt="xkcd Comic über Passwortstärke" width="100%" height="601">
 &lt;/a>
 &lt;figcaption>
 Password Strength by xkcd
