@@ -90,7 +90,7 @@ Bitte immer daran denken: Je länger desto besser!
 
 Dieses comic von XKDC zeigt es schnell und einfach (leider nur auf englisch):
 
-{{< figure src="./password_strength.png"
+{{< figure src="password_strength.png"
 width="100%"
 caption="Password Strength by xkcd"
 link=https://xkcd.com/936
