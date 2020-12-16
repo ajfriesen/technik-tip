@@ -22,7 +22,7 @@ height = "400px"
   align = "left"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "headers/nasa-Q1p7bh3SHj8-unsplash.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "headers/nasa-Q1p7bh3SHj8-unsplash.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5 # Darken the image. Value in range 0-1.
 
 [[item]]
@@ -33,7 +33,7 @@ height = "400px"
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
@@ -50,7 +50,7 @@ height = "400px"
   align = "right"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "headers/ilya-pavlov-OqtafYT5kTw-unsplash.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "headers/ilya-pavlov-OqtafYT5kTw-unsplash.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 

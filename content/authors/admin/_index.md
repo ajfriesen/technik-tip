@@ -3,7 +3,7 @@
 name: Andrej Friesen
 
 # Username (this should match the folder name)
-authors:
+title:
 - admin
 
 # Is this the primary user of the site?

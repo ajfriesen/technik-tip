@@ -21,7 +21,7 @@ Vor allem auch was du nicht machen solltest und auch warum.
 <!--more-->
 ---
 
-{{% alert primary %}}
+{{% callout primary %}}
 
 Das wichtigste in Kürze
 
@@ -33,9 +33,9 @@ Das wichtigste in Kürze
 * :x: Tastaturmuster wie ASDF, 1234, jklö auf jeden Fall vermeiden
 * :x: Alte Passwörter niemals wieder verwenden
 
-{{% /alert %}}
+{{% /callout %}}
 
-{{% alert info %}}
+{{% callout info %}}
 
 So gehst du vor:
 
@@ -43,7 +43,7 @@ So gehst du vor:
 * Falls ein Passwortmanager für dich nichts ist kann ein Password Buch helfen (Artikel folgt)
 * Für wichtige Konten (E-Mail, Bank, etc.) 2-Faktor-Authentifizierung aktivieren (Artikel folgt)
 
-{{% /alert %}}
+{{% /callout %}}
 
 {{% toc %}}
 
@@ -52,7 +52,7 @@ So gehst du vor:
 Eine Passphrasen ist eigentlich nicht anderes als ein paar Worte aneinandergereiht.
 Um eine sichere Passphrase zu erstellen kann man einfach folgende Schirtte befolgen:
 
-1. Ein paar Worte hintereinander schreiben (Am besten völlig ohne Zusammenhand)
+1. Ein paar Worte hintereinander schreiben (Am besten völlig ohne Zusammenhang)
 2. Ein paar Buchstaben durch Ziffern austauschen (Ziffern werden häufig von Diensten bei Passwörtern verlangt)
 3. Die Worte durch Sonderzeichen wie einem "-" ternnen (Sonderzeichen werden häufig von Diensten bei Passwörtern verlangt)
 
@@ -153,13 +153,13 @@ Das ist also nun die Gretchenfrage: Eindeutig und pauschal ist das nicht zu bean
 Das BSI für Bürger empfielt mindestens 8 Zeichen [^2].
 Das finde ich persönlich etwas wenig, da man solch ein Passwort mit bspw. einer Zeichenanzahl von 62 (Groß- und Kleinbuchstaben sowie Ziffern) und einer Passwortlänge von 8 Zeichen in 1,18 Tagen durch stupides "ausprobieren" herausbekommen könnte.
 
-{{% alert dark %}}
+{{% callout dark %}}
 Exkurs:  
 Natürlich kann niemand sich jetzt einfach 2 Tage hinsetzten und alle Passwörter der Welt bei einem Dienst ausprobieren.
 Dafür gibt es noch weitere Sicherheitsmechanismen auf Seiten des Dienstes.
 Zum Beispiel hat man nur 3 Versuche und dannach muss man sich wieder freischalten.
 Auch ist es möglich, dass das IT System von dem Dienst diese Versuche erkennt und die Anmeldung von diesen Geräten erstmal sperrt und den echten Benutzer per E-Mail oder SMS benachrichtigt.
-{{% /alert %}}
+{{% /callout %}}
 
 Und je nach Benutzer und Relevanz des Erfolges ein solches Passwort zu knacken ist das ein vertretbarer Auswand.
 Daher würde ich eine Passwortlänge von mindestens 12 Zeichen empfehlen.
@@ -190,9 +190,9 @@ Egal wie hoch das Riskoprofil ist und welche Auswirkungen das haben könnte: Nie
 
 Daher gilt:
 
-{{% alert warning %}}
+{{% callout warning %}}
 Persönliche Daten sind in Passphrase und Passwort absolut Tabu
-{{% /alert %}}
+{{% /callout %}}
 
 ## Warum Passwörter nicht wiederverwendet werden dürfen
 
