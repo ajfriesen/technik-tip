@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Passwörter | Technik-Tip</title><link>https://www.technik-tip.de/categories/passworter/</link><atom:link href="https://www.technik-tip.de/categories/passworter/index.xml" rel="self" type="application/rss+xml"/><description>Passwörter</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>Andrej Friesen</copyright><lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0000</lastBuildDate><image><url>img/map[gravatar:%!s(bool=false) shape:circle]</url><title>Passwörter</title><link>https://www.technik-tip.de/categories/passworter/</link></image><item><title>Sichere Passwörter</title><link>https://www.technik-tip.de/post/sichere-passwoerter/</link><pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate><guid>https://www.technik-tip.de/post/sichere-passwoerter/</guid><description>&lt;p>Passwörter sind nervig, aber notwendig.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Passwörter | Technik-Tip</title><link>https://www.technik-tip.de/categories/passworter/</link><atom:link href="https://www.technik-tip.de/categories/passworter/index.xml" rel="self" type="application/rss+xml"/><description>Passwörter</description><generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><copyright>Andrej Friesen</copyright><lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0000</lastBuildDate><image><url>https://www.technik-tip.de/images/icon_hu5235ade8c3a67dfb051492dea34bb9f3_1245_512x512_fill_lanczos_center_2.png</url><title>Passwörter</title><link>https://www.technik-tip.de/categories/passworter/</link></image><item><title>Sichere Passwörter</title><link>https://www.technik-tip.de/post/sichere-passwoerter/</link><pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate><guid>https://www.technik-tip.de/post/sichere-passwoerter/</guid><description>&lt;p>Passwörter sind nervig, aber notwendig.
 Hier erfährst du was sichere Passwörter sind und worauf du bei der Erstellung von Passwörtern achten solltest.
 Vor allem auch was du nicht machen solltest und auch warum.&lt;/p>
 &lt;hr>
 &lt;div class="alert alert-primary">
 &lt;div>
-Das wichtigste in Kürze&lt;/p>
+&lt;p>Das wichtigste in Kürze&lt;/p>
 &lt;ul>
 &lt;li>✅ Lange Passwörter sind sicherer als komplexe Passwörter&lt;/li>
 &lt;li>✅ Passphrasen sind besser als Passwörter&lt;/li>
@@ -18,7 +18,7 @@ Das wichtigste in Kürze&lt;/p>
 &lt;/div>
 &lt;div class="alert alert-info">
 &lt;div>
-So gehst du vor:&lt;/p>
+&lt;p>So gehst du vor:&lt;/p>
 &lt;ul>
 &lt;li>Passwortmanager nutzen (Artikel folgt)&lt;/li>
 &lt;li>Falls ein Passwortmanager für dich nichts ist kann ein Password Buch helfen (Artikel folgt)&lt;/li>
@@ -46,7 +46,7 @@ So gehst du vor:&lt;/p>
 &lt;p>Eine Passphrasen ist eigentlich nicht anderes als ein paar Worte aneinandergereiht.
 Um eine sichere Passphrase zu erstellen kann man einfach folgende Schirtte befolgen:&lt;/p>
 &lt;ol>
-&lt;li>Ein paar Worte hintereinander schreiben (Am besten völlig ohne Zusammenhand)&lt;/li>
+&lt;li>Ein paar Worte hintereinander schreiben (Am besten völlig ohne Zusammenhang)&lt;/li>
 &lt;li>Ein paar Buchstaben durch Ziffern austauschen (Ziffern werden häufig von Diensten bei Passwörtern verlangt)&lt;/li>
 &lt;li>Die Worte durch Sonderzeichen wie einem &amp;ldquo;-&amp;rdquo; ternnen (Sonderzeichen werden häufig von Diensten bei Passwörtern verlangt)&lt;/li>
 &lt;/ol>
@@ -89,8 +89,7 @@ Dazu kommt, dass ich nicht der einzige mit diesem Namen bin und jemand anderes d
 An sich ist das nicht schlimm, aber dadurch steigt die Wahrscheinlichkeit, dass dieses Passwort irgendwann in einer Passwortdatenbank landet.&lt;/p>
 &lt;h3 id="warum-sind-denn-jetzt-lange-passwörter-besser-als-komplexe-aber-kurze-passwörter">Warum sind denn jetzt lange Passwörter besser als komplexe aber kurze Passwörter?&lt;/h3>
 &lt;p>Eine sehr gute Erklärung gibt es von Heiko Schröder.
-Bei Interesse kann hier der ganze Artikel direkt gelesen werden:
-&lt;a href="https://www.1pw.de/brute-force.php" target="_blank" rel="noopener">Zusammenhang von Brute-Force-Attacken und Passwortlängen&lt;/a>&lt;/p>
+Bei Interesse kann hier der ganze Artikel direkt gelesen werden: &lt;a href="https://www.1pw.de/brute-force.php" target="_blank" rel="noopener">Zusammenhang von Brute-Force-Attacken und Passwortlängen&lt;/a>&lt;/p>
 &lt;p>Zusammengefasst und veranschaulicht gibt er folgendes Beispiel:&lt;/p>
 &lt;p>Die Formel um alle Kombinationsmöglichkeiten von Zeichen zu bekommen ist wie folgt:&lt;/p>
 &lt;p>&lt;strong>Kombinationsmöglichkeiten = Zeichenanzahl&lt;sup>Passwortlänge&lt;/sup>&lt;/strong>&lt;/p>
@@ -158,19 +157,16 @@ Denn auch wenn das Passwort sicher ist, muss es nur einmal geleakt werden und sc
 Daher ist es so wichtig, immer ein anderes Passwort für unterschiedliche Seiten und Dienste zu verwenden.&lt;/p>
 &lt;p>Ist etwas Unklar?&lt;br>
 Habt ihr sonstige Fragen?&lt;br>
-Schreibt diese einfach unten in die Kommentare oder schreibt eine Mail an
-&lt;a href="mailto:kontakt@technik-tip.de">kontakt@technik-tip.de&lt;/a>&lt;/p>
+Schreibt diese einfach unten in die Kommentare oder schreibt eine Mail an &lt;a href="mailto:kontakt@technik-tip.de">kontakt@technik-tip.de&lt;/a>&lt;/p>
 &lt;h2 id="quellen">Quellen&lt;/h2>
 &lt;section class="footnotes" role="doc-endnotes">
 &lt;hr>
 &lt;ol>
 &lt;li id="fn:1" role="doc-endnote">
-&lt;p>
-&lt;a href="https://www.1pw.de/brute-force.php" target="_blank" rel="noopener">Zusammenhang von Brute-Force-Attacken und Passwortlängen&lt;/a> &lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.1pw.de/brute-force.php" target="_blank" rel="noopener">Zusammenhang von Brute-Force-Attacken und Passwortlängen&lt;/a> &lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li id="fn:2" role="doc-endnote">
-&lt;p>
-&lt;a href="https://www.bsi-fuer-buerger.de/BSIFB/DE/Empfehlungen/Passwoerter/passwoerter_node.html" target="_blank" rel="noopener">BSI für Bürger: Passwörter&lt;/a> &lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.bsi-fuer-buerger.de/BSIFB/DE/Empfehlungen/Passwoerter/passwoerter_node.html" target="_blank" rel="noopener">BSI für Bürger: Passwörter&lt;/a> &lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
 &lt;/section></description></item></channel></rss>
